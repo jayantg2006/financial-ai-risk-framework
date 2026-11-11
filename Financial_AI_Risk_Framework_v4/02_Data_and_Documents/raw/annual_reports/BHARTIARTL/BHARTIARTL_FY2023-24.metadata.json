@@ -1,0 +1,189 @@
+{
+  "document_id": "BHARTIARTL-FY2023-24",
+  "company": "Bharti Airtel Limited",
+  "ticker": "BHARTIARTL",
+  "financial_year": "FY2023-24",
+  "period_end": "2024-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2023_24/Integrated_Report_and_Financial_Statements.pdf",
+  "investor_relations_url": "https://www.airtel.in/about-bharti/equity/results",
+  "publication_date": "not confirmed",
+  "page_count": 238,
+  "status": "approved",
+  "file_hash": "7b35fbd367b874cabdcc92c297d19bbf9ed071ab5991a2fee606e82b8cb681e2",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 2,
+  "market_cap_inr_crore": "1288663.47",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "CUSTOMER OBSESSED\nDIGITALLY DRIVEN\nIntegrated Report and Annual Financial Statements 2023-24\nBharti Airtel Limited\n\nKey highlights FY 2023-24\nConsolidated \nC941,198 Mn \nRevenue \n11% \nC510,867 Mn \nEBITDA \n16% \nStandalone\nCustomers\n406.3 Mn \nIndia\n152.7 Mn \nAfrica\n58.1 Mn \nBangladesh\n2.9 Mn \nSri Lanka\nESG \nB\nMaintained CDP Rating\nWinner\nGolden Peacock Award for \nSustainability 2023\nS&P Global\n2024 Sustainability \nYearbook Member\nFinancial \n Y-o-Y growth\n Y-o-Y degrowth\nC49,882 Mn \nNet profit \nC1,499,824 Mn \nRevenue \n8% \nC790,458 Mn \nEBITDA \n10% \nC74,670 Mn\nNet profit \n11% \nAt Airtel, we are at the forefront of technological advancements, with \ncustomer obsession at the center of everything. \nOur superfast and seamless connectivity, riding on a solid \ndigital foundation, enables us to win quality customers \nfor life.\nWe expanded our network at a remarkable pace with the \nlargest ever deployment of network sites and optic fiber \nrollout across the country, offering unmatched connectivity \nthat elevates lives and transforms enterprises. By staying \nconsistent with our strategy, integrating technology, \nand razor-sharp execution, we sustained industry-\nleading growth.\nWe are building dig",
+  "statement_heading_candidate_pages": {
+    "4": [
+      "independent auditor"
+    ],
+    "103": [
+      "independent auditor"
+    ],
+    "110": [
+      "independent auditor"
+    ],
+    "134": [
+      "cash flow statement"
+    ],
+    "135": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "136": [
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "137": [
+      "independent auditor"
+    ],
+    "138": [
+      "independent auditor"
+    ],
+    "141": [
+      "statement of profit and loss"
+    ],
+    "142": [
+      "statement of changes in equity"
+    ],
+    "144": [
+      "statement of profit and loss"
+    ],
+    "145": [
+      "statement of profit and loss"
+    ],
+    "146": [
+      "statement of profit and loss"
+    ],
+    "147": [
+      "statement of profit and loss"
+    ],
+    "148": [
+      "statement of profit and loss"
+    ],
+    "149": [
+      "statement of profit and loss"
+    ],
+    "153": [
+      "statement of profit and loss"
+    ],
+    "164": [
+      "statement of profit and loss"
+    ],
+    "170": [
+      "statement of profit and loss"
+    ],
+    "171": [
+      "statement of profit and loss"
+    ],
+    "172": [
+      "statement of profit and loss"
+    ],
+    "178": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "179": [
+      "independent auditor"
+    ],
+    "180": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "182": [
+      "independent auditor"
+    ],
+    "183": [
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "184": [
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "185": [
+      "consolidated statement of cash"
+    ],
+    "186": [
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "187": [
+      "statement of profit and loss"
+    ],
+    "188": [
+      "statement of profit and loss"
+    ],
+    "189": [
+      "statement of profit and loss"
+    ],
+    "190": [
+      "statement of profit and loss"
+    ],
+    "191": [
+      "statement of profit and loss"
+    ],
+    "192": [
+      "statement of profit and loss"
+    ],
+    "194": [
+      "statement of profit and loss"
+    ],
+    "198": [
+      "statement of profit and loss"
+    ],
+    "199": [
+      "statement of profit and loss"
+    ],
+    "200": [
+      "statement of profit and loss"
+    ],
+    "201": [
+      "statement of profit and loss"
+    ],
+    "202": [
+      "statement of profit and loss"
+    ],
+    "215": [
+      "statement of profit and loss"
+    ],
+    "220": [
+      "statement of profit and loss"
+    ],
+    "222": [
+      "statement of profit and loss"
+    ],
+    "224": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

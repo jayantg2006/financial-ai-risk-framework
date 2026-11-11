@@ -1,0 +1,169 @@
+{
+  "document_id": "ICICIBANK-FY2025-26",
+  "company": "ICICI Bank Limited",
+  "ticker": "ICICIBANK",
+  "financial_year": "FY2025-26",
+  "period_end": "2026-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2026/ICICI-BankAR2025-2026.pdf",
+  "investor_relations_url": "https://www.icici.bank.in/about-us/annual",
+  "publication_date": "not confirmed",
+  "page_count": 349,
+  "status": "approved",
+  "file_hash": "7ceb362ef3be6da13e4e350a7c379348aa39634c17743df167781c4d9bf3305f",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 4,
+  "market_cap_inr_crore": "1138218.33",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "Annual Report 2025-26\n\nSafeguarding Shareholder \nValue through Responsible \nGrowth\nContributing to \nInclusive and Sustainable \nDevelopment\nTechnology \nGuided by Human \nUnderstanding\nBuilding \nEnduring \nRelationships\nEmpowering \nColleagues\nto Grow\nUnderstanding \nCustomer \nNeeds \nEmpathy is deeply embedded in ICICI Bank’s culture and operating philosophy. It guides us on how we serve \ncustomers, support employees, create value for shareholders and contribute to society. It is reﬂected in our values, \nembedded in our way of working and evident in the choices we make every day.\nOur philosophy of being ‘Fair to Customer, Fair to Bank’ lies at the heart of this approach. We believe that \nenduring relationships are built when the interests of customers and the Bank are aligned, creating outcomes that are \nequitable, sustainable and mutually beneﬁcial. Our values of ‘One Bank, One Team’, ‘Return of Capital’, ‘Agile Risk \nManagement’ and ‘Compliance with Conscience’ further reinforce this philosophy, shaping a culture where empathy is \nbalanced with accountability, responsibility and long-term value creation.\nFor our customers, empathy begins with understanding their \nneeds. It requires a d",
+  "statement_heading_candidate_pages": {
+    "3": [
+      "independent auditor"
+    ],
+    "135": [
+      "independent auditor",
+      "cash flow statement"
+    ],
+    "136": [
+      "independent auditor"
+    ],
+    "137": [
+      "independent auditor"
+    ],
+    "138": [
+      "independent auditor"
+    ],
+    "139": [
+      "independent auditor"
+    ],
+    "140": [
+      "independent auditor",
+      "cash flow statement"
+    ],
+    "141": [
+      "independent auditor"
+    ],
+    "142": [
+      "independent auditor"
+    ],
+    "143": [
+      "independent auditor"
+    ],
+    "147": [
+      "cash flow statement"
+    ],
+    "148": [
+      "cash flow statement"
+    ],
+    "251": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "252": [
+      "independent auditor"
+    ],
+    "253": [
+      "independent auditor"
+    ],
+    "254": [
+      "independent auditor"
+    ],
+    "255": [
+      "independent auditor"
+    ],
+    "256": [
+      "independent auditor"
+    ],
+    "257": [
+      "independent auditor"
+    ],
+    "258": [
+      "independent auditor"
+    ],
+    "259": [
+      "independent auditor"
+    ],
+    "260": [
+      "independent auditor"
+    ],
+    "261": [
+      "independent auditor"
+    ],
+    "262": [
+      "independent auditor"
+    ],
+    "263": [
+      "independent auditor"
+    ],
+    "264": [
+      "independent auditor"
+    ],
+    "265": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "266": [
+      "independent auditor"
+    ],
+    "267": [
+      "independent auditor"
+    ],
+    "268": [
+      "independent auditor"
+    ],
+    "271": [
+      "consolidated balance sheet"
+    ],
+    "273": [
+      "cash flow statement"
+    ],
+    "274": [
+      "cash flow statement"
+    ],
+    "275": [
+      "consolidated balance sheet"
+    ],
+    "276": [
+      "consolidated balance sheet"
+    ],
+    "277": [
+      "consolidated balance sheet"
+    ],
+    "278": [
+      "consolidated balance sheet"
+    ],
+    "279": [
+      "consolidated balance sheet"
+    ],
+    "280": [
+      "consolidated balance sheet"
+    ],
+    "281": [
+      "consolidated balance sheet"
+    ],
+    "282": [
+      "consolidated balance sheet"
+    ],
+    "283": [
+      "consolidated balance sheet"
+    ],
+    "284": [
+      "consolidated balance sheet"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

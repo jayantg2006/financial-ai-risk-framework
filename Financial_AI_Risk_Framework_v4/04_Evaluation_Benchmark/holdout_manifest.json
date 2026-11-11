@@ -1,0 +1,7 @@
+{
+  "file": "benchmark_holdout.jsonl",
+  "sha256": "a52e9e59b4e8635a9dae9900cf20725ee1d355f67f45551efecf10d34f3b78e0",
+  "case_count": 40,
+  "locked_at": "2026-11-10",
+  "status": "locked; do not tune on this split"
+}

@@ -1,0 +1,190 @@
+{
+  "document_id": "BHARTIARTL-FY2024-25",
+  "company": "Bharti Airtel Limited",
+  "ticker": "BHARTIARTL",
+  "financial_year": "FY2024-25",
+  "period_end": "2025-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2024_25/Integrated_Report_and_Annual_Financial_Statements.pdf",
+  "investor_relations_url": "https://www.airtel.in/about-bharti/equity/results",
+  "publication_date": "not confirmed",
+  "page_count": 257,
+  "status": "approved",
+  "file_hash": "2f9e9614251a020d518804f761fd8662c94b2663b7e71bf60305171f2bf762d5",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 2,
+  "market_cap_inr_crore": "1288663.47",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "CUSTOMER OBSESSED\nTHE SAFE NETWORK\nIntegrated Report and Annual Financial Statements 2024-25\nBharti Airtel Limited\n\nCustomer Obsessed. \nThe Safe Network.\nAt Airtel, everything begins with our customers. \nIn a hyper-connected world, we are committed \nto empowering individuals and enterprises \nthrough superfast connectivity, an expansive \ndigital portfolio and a brilliant experience at \nevery touchpoint.\nOur customers benefit from an integrated \nsuite of services: ranging from Mobile, \nBroadband, Digital TV (DTH and IPTV) to \nan array of digital and financial services. \nFor enterprise customers, we offer robust \nconnectivity powered by terrestrial and global \nfiber networks, state-of-the-art data centres \nand customised digital solutions.\nWe continue to invest in building a smarter, \nfaster and safer network. From the rollout \nof our 5G Plus network to the integration \nof AI-powered platforms, we are creating \na future-ready digital backbone that evolves \nwith our customers’ needs.\nOur network is powered by cutting edge \ndigital tools and real-time data analytics, \nenabling us to deliver seamless and secure \nservices. Our industry-first, AI-powered \nAnti-SPAM solution is intuitive an",
+  "statement_heading_candidate_pages": {
+    "116": [
+      "independent auditor"
+    ],
+    "123": [
+      "independent auditor"
+    ],
+    "150": [
+      "cash flow statement"
+    ],
+    "151": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "152": [
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "153": [
+      "independent auditor"
+    ],
+    "154": [
+      "independent auditor"
+    ],
+    "157": [
+      "statement of profit and loss"
+    ],
+    "158": [
+      "statement of changes in equity"
+    ],
+    "160": [
+      "statement of profit and loss"
+    ],
+    "161": [
+      "statement of profit and loss"
+    ],
+    "162": [
+      "statement of profit and loss"
+    ],
+    "163": [
+      "statement of profit and loss"
+    ],
+    "164": [
+      "statement of profit and loss"
+    ],
+    "165": [
+      "statement of profit and loss"
+    ],
+    "169": [
+      "statement of profit and loss"
+    ],
+    "181": [
+      "statement of profit and loss"
+    ],
+    "187": [
+      "statement of profit and loss"
+    ],
+    "189": [
+      "statement of profit and loss"
+    ],
+    "194": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "195": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "196": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "198": [
+      "independent auditor"
+    ],
+    "199": [
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "200": [
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "201": [
+      "consolidated statement of cash"
+    ],
+    "202": [
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "203": [
+      "statement of profit and loss"
+    ],
+    "204": [
+      "statement of profit and loss"
+    ],
+    "205": [
+      "statement of profit and loss"
+    ],
+    "206": [
+      "statement of profit and loss"
+    ],
+    "207": [
+      "statement of profit and loss"
+    ],
+    "208": [
+      "statement of profit and loss"
+    ],
+    "209": [
+      "statement of profit and loss"
+    ],
+    "210": [
+      "statement of profit and loss"
+    ],
+    "211": [
+      "statement of profit and loss"
+    ],
+    "212": [
+      "statement of profit and loss"
+    ],
+    "216": [
+      "statement of profit and loss"
+    ],
+    "218": [
+      "statement of profit and loss"
+    ],
+    "219": [
+      "statement of profit and loss"
+    ],
+    "220": [
+      "statement of profit and loss"
+    ],
+    "234": [
+      "statement of profit and loss"
+    ],
+    "239": [
+      "statement of profit and loss"
+    ],
+    "241": [
+      "statement of profit and loss"
+    ],
+    "243": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

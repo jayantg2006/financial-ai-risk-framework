@@ -1,0 +1,13 @@
+risk_id,risk_category,risk_description,likelihood,impact,inherent_score,risk_band,current_controls,residual_risk,status,owner
+R01,Model output,Unsupported or fabricated financial claim,3,5,15,High,Quote spans and numeric-token gate; heuristic only,High,Open,Model Risk
+R02,Data extraction,Incorrect/missing text or table value and page provenance,3,5,15,High,PyMuPDF page extraction and hash; visual validation pending,High,Open,Data Owner
+R03,Citation,Quote matches source but does not semantically support claim,3,5,15,High,Exact-span/number check; entailment not implemented,High,Open,Validation Lead
+R04,Retrieval,Wrong entity/year/metric selected by lexical heuristics,3,5,15,High,Metadata filters and query coverage checks; evaluation still uses synthetic cases rather than an adjudicated real-report benchmark,High,Open,Model Risk
+R05,Temporal,Restatements/comparatives are attributed to wrong period,2,5,10,High,Year constraints and explicit period tests; no restatement reconciliation,High,Open,Data Owner
+R06,Security,Direct/indirect prompt injection bypasses pattern guard,3,5,15,High,Regex pattern check and low-ranked-passage filtering,High,Open,Security
+R07,Abstention,Unknown information answered from adjacent passage,3,5,15,High,Answer relevance/year/period heuristic,High,Open,Model Risk
+R08,Generation,NIM behavior untested on actual endpoint/version,3,4,12,High,Optional structured-response quote gate; endpoint run pending,High,Open,Engineering
+R09,Semantic,Embedding model/index changes alter ranking or introduce license/supply risk,2,4,8,Moderate,Optional config/version field and regression suite,Medium,Open,Engineering
+R10,Human oversight,Gold labels and outputs not independently adjudicated,4,5,20,Critical,Review queue and protocol only,High,Open,Validation Lead
+R11,Governance,Prototype may be over-relied upon as validated or decisioning system,3,5,15,High,System card and use policy,Medium,Open,Business Owner
+R12,Privacy/access,No user-level access control, retention, or production privacy review,2,5,10,High,Approved demo corpus status only,High,Open,Security

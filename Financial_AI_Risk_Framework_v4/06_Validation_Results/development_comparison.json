@@ -1,0 +1,682 @@
+{
+  "suite": "FDIA-V4",
+  "split": "development",
+  "benchmark_hash": "6b1cf4b9e69ba3dc0d82c768893afc7458713eaf0283e77c926d4522fdc9348b",
+  "case_count": 120,
+  "top_k": 5,
+  "tuning_policy": "holdout excluded unless explicitly unlocked; results never auto-tune configuration",
+  "configurations": {
+    "baseline": {
+      "run_id": "run-20261110T122107Z-18922c",
+      "summary": {
+        "case_count": 120,
+        "factual_accuracy": {
+          "n": 120,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "numerical_accuracy": {
+          "n": 90,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "citation_support": {
+          "n": 90,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "precision_at_k": {
+          "n": 90,
+          "mean": 0.2533,
+          "ci95_bootstrap": [
+            0.2356,
+            0.2733
+          ]
+        },
+        "recall_at_k": {
+          "n": 90,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "mrr": {
+          "n": 90,
+          "mean": 0.937,
+          "ci95_bootstrap": [
+            0.8981,
+            0.9722
+          ]
+        },
+        "correct_abstention_rate": {
+          "n": 30,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "false_abstention_rate": {
+          "n": 90,
+          "mean": 0.0,
+          "ci95_bootstrap": [
+            0.0,
+            0.0
+          ]
+        },
+        "attack_success_rate": {
+          "n": 18,
+          "mean": 0.0,
+          "ci95_bootstrap": [
+            0.0,
+            0.0
+          ]
+        },
+        "consistency_rate": {
+          "n": 12,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "unsupported_claim_rate": {
+          "n": 90,
+          "mean": 0.0,
+          "ci95_bootstrap": [
+            0.0,
+            0.0
+          ]
+        },
+        "denominators": {
+          "answerable_cases": 90,
+          "abstention_or_refusal_cases": 30,
+          "adversarial_cases": 18
+        },
+        "by_category": {
+          "abstention": {
+            "n": 12,
+            "factual_accuracy": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "adversarial_security": {
+            "n": 18,
+            "factual_accuracy": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "attack_success_rate": {
+              "n": 18,
+              "mean": 0.0,
+              "ci95_bootstrap": [
+                0.0,
+                0.0
+              ]
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "citation": {
+            "n": 15,
+            "factual_accuracy": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "consistency": {
+            "n": 12,
+            "factual_accuracy": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            }
+          },
+          "factual": {
+            "n": 18,
+            "factual_accuracy": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "numerical": {
+            "n": 18,
+            "factual_accuracy": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "retrieval": {
+            "n": 15,
+            "factual_accuracy": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "temporal_reasoning": {
+            "n": 12,
+            "factual_accuracy": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          }
+        }
+      },
+      "failures": []
+    },
+    "semantic_baseline": {
+      "run_id": "run-20261110T122129Z-67df37",
+      "summary": {
+        "case_count": 120,
+        "factual_accuracy": {
+          "n": 120,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "numerical_accuracy": {
+          "n": 90,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "citation_support": {
+          "n": 90,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "precision_at_k": {
+          "n": 90,
+          "mean": 0.2533,
+          "ci95_bootstrap": [
+            0.2356,
+            0.2733
+          ]
+        },
+        "recall_at_k": {
+          "n": 90,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "mrr": {
+          "n": 90,
+          "mean": 0.6907,
+          "ci95_bootstrap": [
+            0.6287,
+            0.7574
+          ]
+        },
+        "correct_abstention_rate": {
+          "n": 30,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "false_abstention_rate": {
+          "n": 90,
+          "mean": 0.0,
+          "ci95_bootstrap": [
+            0.0,
+            0.0
+          ]
+        },
+        "attack_success_rate": {
+          "n": 18,
+          "mean": 0.0,
+          "ci95_bootstrap": [
+            0.0,
+            0.0
+          ]
+        },
+        "consistency_rate": {
+          "n": 12,
+          "mean": 1.0,
+          "ci95_bootstrap": [
+            1.0,
+            1.0
+          ]
+        },
+        "unsupported_claim_rate": {
+          "n": 90,
+          "mean": 0.0,
+          "ci95_bootstrap": [
+            0.0,
+            0.0
+          ]
+        },
+        "denominators": {
+          "answerable_cases": 90,
+          "abstention_or_refusal_cases": 30,
+          "adversarial_cases": 18
+        },
+        "by_category": {
+          "abstention": {
+            "n": 12,
+            "factual_accuracy": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "adversarial_security": {
+            "n": 18,
+            "factual_accuracy": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "attack_success_rate": {
+              "n": 18,
+              "mean": 0.0,
+              "ci95_bootstrap": [
+                0.0,
+                0.0
+              ]
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "citation": {
+            "n": 15,
+            "factual_accuracy": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "consistency": {
+            "n": 12,
+            "factual_accuracy": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            }
+          },
+          "factual": {
+            "n": 18,
+            "factual_accuracy": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "numerical": {
+            "n": 18,
+            "factual_accuracy": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 18,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "retrieval": {
+            "n": 15,
+            "factual_accuracy": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 15,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          },
+          "temporal_reasoning": {
+            "n": 12,
+            "factual_accuracy": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "citation_support": {
+              "n": 12,
+              "mean": 1.0,
+              "ci95_bootstrap": [
+                1.0,
+                1.0
+              ]
+            },
+            "attack_success_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            },
+            "consistency_rate": {
+              "n": 0,
+              "mean": null,
+              "ci95_bootstrap": null
+            }
+          }
+        }
+      },
+      "failures": []
+    }
+  },
+  "skipped": {
+    "nim": "NVIDIA_API_KEY is not set; NIM was skipped.",
+    "semantic_nim": "NVIDIA_API_KEY is not set; NIM was skipped."
+  }
+}

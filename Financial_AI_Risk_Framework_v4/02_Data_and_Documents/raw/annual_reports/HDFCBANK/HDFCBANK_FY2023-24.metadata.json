@@ -1,0 +1,102 @@
+{
+  "document_id": "HDFCBANK-FY2023-24",
+  "company": "HDFC Bank Limited",
+  "ticker": "HDFCBANK",
+  "financial_year": "FY2023-24",
+  "period_end": "2024-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2023-24/integrated-annual-report-2023-24.pdf",
+  "investor_relations_url": "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports",
+  "publication_date": "not confirmed",
+  "page_count": 585,
+  "status": "approved",
+  "file_hash": "40f73920a8b153ecb04a826db8d916e904da9f99ba6dd1e054a9a2da60524793",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 3,
+  "market_cap_inr_crore": "1228574.28",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "Integrated Annual Report\n2023-24\n\nBanking, by its very nature has a multiplier effect on the economy. HDFC \nBank has been at the forefront of banking in India, through innovation, \nefficiency and customer-centricity. This has earned us the distinction \nof being one of the most trusted financial institutions in the country. \nThe Bank focuses on holistic value creation for stakeholders. It plays a \ncritical role in achieving individuals' financial goals, fostering business \ngrowth, making a difference to the lives of people through our social \ninitiatives and contributing to the nation's overall progress.\nOur strength lies in identifying promising opportunities and capitalising \non them quickly through our execution skills. Our extensive physical \nand digital footprint enables us to extend world-class banking services \nto even remote parts of the country. We have consistently grown our \nbalance sheet and profits while maintaining a best-in-class asset quality. \nPowering \nProgress\n\nMerger: The Power of One\nThe merger of HDFC Limited with and into HDFC \nBank has created a stronger financial services \nconglomerate with the addition of subsidiaries like \nHDFC Life, HDFC ERGO and HDFC AMC",
+  "statement_heading_candidate_pages": {
+    "5": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "276": [
+      "cash flow statement"
+    ],
+    "282": [
+      "cash flow statement"
+    ],
+    "284": [
+      "independent auditor"
+    ],
+    "390": [
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "402": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "404": [
+      "independent auditor"
+    ],
+    "406": [
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "409": [
+      "independent auditor"
+    ],
+    "412": [
+      "consolidated balance sheet"
+    ],
+    "413": [
+      "consolidated balance sheet"
+    ],
+    "416": [
+      "consolidated balance sheet"
+    ],
+    "430": [
+      "consolidated balance sheet"
+    ],
+    "432": [
+      "consolidated balance sheet"
+    ],
+    "434": [
+      "consolidated balance sheet"
+    ],
+    "436": [
+      "consolidated balance sheet"
+    ],
+    "437": [
+      "consolidated balance sheet"
+    ],
+    "438": [
+      "consolidated balance sheet"
+    ],
+    "443": [
+      "consolidated balance sheet"
+    ],
+    "447": [
+      "consolidated balance sheet"
+    ],
+    "512": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

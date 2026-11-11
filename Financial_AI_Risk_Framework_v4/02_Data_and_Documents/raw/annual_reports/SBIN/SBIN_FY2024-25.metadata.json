@@ -1,0 +1,162 @@
+{
+  "document_id": "SBIN-FY2024-25",
+  "company": "State Bank of India",
+  "ticker": "SBIN",
+  "financial_year": "FY2024-25",
+  "period_end": "2025-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://sbi.bank.in/documents/17826/35696/Annual+Report+FY2025.pdf/1b6a1b79-a16d-b9d1-d28f-be8d7edf60d5?t=1745556744202",
+  "investor_relations_url": "https://sbi.bank.in/web/corporate-governance/annual-report-",
+  "publication_date": "not confirmed",
+  "page_count": 517,
+  "status": "approved",
+  "file_hash": "a096ad285fef718364b005feff39c38c75e9da3f81c42f800eecbf189a9d9330",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 5,
+  "market_cap_inr_crore": "961338.21",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "2024-25\nAnnual Report\n\nB\nCompany Overview\nSBI at a Glance \b\n2\nProducts and Services \b\n4\nFinancial Legacy \b\n6\nRatings \b\n7\nAwards and Recognitions \b\n8\nPresence \b\n12\nChairman’s Message \b\n14\nResponsible Approach\nEnvironment \b\n20\nCustomers\t\n22\nPeople \b\n24\nCommunity \b\n26\nGovernance\nCentral Board of Directors \b\n29\nCommittees of the Board \b\n30\nMembers of the Central\nManagement Committee \b\n32\nMembers of Local Boards \b\n33\nBank’s Auditors \b\n33\nGroup Structure \b\n34\nStatutory Reports\nDirectors’ Report \b\n38\nCorporate Governance Report \b\n128\nBusiness Responsibility and \nSustainability Report \b\n164\nFinancial Statements\nStandalone \b\n166\nConsolidated\b\n256\nPillar 3 Disclosures (Consolidated)\b 319\nNotice\b\n355\nGreen Initiative in \nCorporate Governance \b 363\nContents\nThe Pillars of \nour Excellence \nare\nConsistency through Trust\nThrough decades of service, SBI has remained \nsteadfast in its mission — delivering dependable \nfinancial solutions, maintaining governance \nstandards, and nurturing lasting relationships. Our \nability to offer continuity in an ever-changing world \nreinforces our role as a reliable partner for individuals, \nbusinesses, and the nation.\nProductivity Driving Progress \nSBI continues ",
+  "statement_heading_candidate_pages": {
+    "165": [
+      "independent auditor"
+    ],
+    "245": [
+      "cash flow statement"
+    ],
+    "246": [
+      "cash flow statement"
+    ],
+    "248": [
+      "independent auditor",
+      "cash flow statement"
+    ],
+    "250": [
+      "independent auditor"
+    ],
+    "252": [
+      "independent auditor"
+    ],
+    "253": [
+      "cash flow statement"
+    ],
+    "255": [
+      "independent auditor"
+    ],
+    "256": [
+      "independent auditor"
+    ],
+    "258": [
+      "consolidated balance sheet"
+    ],
+    "260": [
+      "consolidated balance sheet"
+    ],
+    "262": [
+      "consolidated balance sheet"
+    ],
+    "264": [
+      "consolidated balance sheet"
+    ],
+    "266": [
+      "consolidated balance sheet"
+    ],
+    "270": [
+      "consolidated balance sheet"
+    ],
+    "272": [
+      "consolidated balance sheet"
+    ],
+    "274": [
+      "consolidated balance sheet"
+    ],
+    "276": [
+      "consolidated balance sheet"
+    ],
+    "278": [
+      "consolidated balance sheet"
+    ],
+    "280": [
+      "consolidated balance sheet"
+    ],
+    "282": [
+      "consolidated balance sheet"
+    ],
+    "284": [
+      "consolidated balance sheet"
+    ],
+    "286": [
+      "consolidated balance sheet"
+    ],
+    "288": [
+      "consolidated balance sheet"
+    ],
+    "290": [
+      "consolidated balance sheet"
+    ],
+    "292": [
+      "consolidated balance sheet"
+    ],
+    "294": [
+      "consolidated balance sheet"
+    ],
+    "296": [
+      "consolidated balance sheet"
+    ],
+    "298": [
+      "consolidated balance sheet"
+    ],
+    "300": [
+      "consolidated balance sheet"
+    ],
+    "302": [
+      "consolidated balance sheet"
+    ],
+    "304": [
+      "consolidated balance sheet"
+    ],
+    "306": [
+      "consolidated balance sheet"
+    ],
+    "308": [
+      "cash flow statement"
+    ],
+    "310": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "312": [
+      "independent auditor"
+    ],
+    "314": [
+      "independent auditor"
+    ],
+    "316": [
+      "independent auditor"
+    ],
+    "317": [
+      "independent auditor"
+    ],
+    "318": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "320": [
+      "independent auditor"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

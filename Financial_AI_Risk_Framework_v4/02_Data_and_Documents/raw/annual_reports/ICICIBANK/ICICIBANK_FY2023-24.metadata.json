@@ -1,0 +1,161 @@
+{
+  "document_id": "ICICIBANK-FY2023-24",
+  "company": "ICICI Bank Limited",
+  "ticker": "ICICIBANK",
+  "financial_year": "FY2023-24",
+  "period_end": "2024-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2024/icici-bank-2024-financial-statements.pdf",
+  "investor_relations_url": "https://www.icici.bank.in/about-us/annual",
+  "publication_date": "not confirmed",
+  "page_count": 192,
+  "status": "approved",
+  "file_hash": "95c0553b8a7e580365ae0e699f6eb7f7223f13549c120fdd9ccfd518c7d26c64",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 4,
+  "market_cap_inr_crore": "1138218.33",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "144 | Annual Report 2023-24\nINDEPENDENT AUDITOR’S REPORT\nTo the Members of ICICI Bank Limited\nReport on the Audit of the Standalone Financial Statements\nOpinion\n1.\t\n\u0007We have audited the accompanying standalone financial statements of ICICI Bank Limited (‘the Bank’), which \ncomprise the Standalone Balance Sheet as at 31 March 2024, the Standalone Profit and Loss Account, and \nStandalone Cash Flow Statement for the year then ended, and notes to the standalone financial statements, \nincluding a summary of significant accounting policies and other explanatory information (‘the standalone \nfinancial statements’).\n2.\t\n\u0007In our opinion and to the best of our information and according to the explanations given to us, the aforesaid \nstandalone financial statements give the information required by the Banking Regulation Act, 1949 as well as the \nCompanies Act, 2013 (‘the Act’) and circulars and guidelines issued by the Reserve Bank of India (‘RBI’) from time to \ntime (‘RBI Guidelines’) in the manner so required for Banking companies and give a true and fair view in conformity \nwith the Accounting Standards prescribed under section 133 of the Act read with the Companies (Accounting \nStandards)",
+  "statement_heading_candidate_pages": {
+    "1": [
+      "independent auditor",
+      "cash flow statement"
+    ],
+    "2": [
+      "independent auditor"
+    ],
+    "3": [
+      "independent auditor"
+    ],
+    "4": [
+      "independent auditor"
+    ],
+    "5": [
+      "independent auditor"
+    ],
+    "6": [
+      "independent auditor"
+    ],
+    "7": [
+      "independent auditor",
+      "cash flow statement"
+    ],
+    "8": [
+      "independent auditor"
+    ],
+    "9": [
+      "independent auditor"
+    ],
+    "13": [
+      "cash flow statement"
+    ],
+    "14": [
+      "cash flow statement"
+    ],
+    "106": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "107": [
+      "independent auditor"
+    ],
+    "108": [
+      "independent auditor"
+    ],
+    "109": [
+      "independent auditor"
+    ],
+    "110": [
+      "independent auditor"
+    ],
+    "111": [
+      "independent auditor"
+    ],
+    "112": [
+      "independent auditor"
+    ],
+    "113": [
+      "independent auditor"
+    ],
+    "114": [
+      "independent auditor"
+    ],
+    "115": [
+      "independent auditor"
+    ],
+    "116": [
+      "independent auditor"
+    ],
+    "117": [
+      "independent auditor"
+    ],
+    "118": [
+      "independent auditor",
+      "consolidated balance sheet"
+    ],
+    "119": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "120": [
+      "independent auditor"
+    ],
+    "121": [
+      "independent auditor"
+    ],
+    "122": [
+      "independent auditor"
+    ],
+    "125": [
+      "consolidated balance sheet"
+    ],
+    "127": [
+      "cash flow statement"
+    ],
+    "128": [
+      "cash flow statement"
+    ],
+    "129": [
+      "consolidated balance sheet"
+    ],
+    "130": [
+      "consolidated balance sheet"
+    ],
+    "131": [
+      "consolidated balance sheet"
+    ],
+    "132": [
+      "consolidated balance sheet"
+    ],
+    "133": [
+      "consolidated balance sheet"
+    ],
+    "134": [
+      "consolidated balance sheet"
+    ],
+    "135": [
+      "consolidated balance sheet"
+    ],
+    "136": [
+      "consolidated balance sheet"
+    ],
+    "137": [
+      "consolidated balance sheet"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

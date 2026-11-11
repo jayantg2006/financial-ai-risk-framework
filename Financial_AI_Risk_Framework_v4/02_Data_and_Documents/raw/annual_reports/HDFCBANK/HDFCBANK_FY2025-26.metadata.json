@@ -1,0 +1,136 @@
+{
+  "document_id": "HDFCBANK-FY2025-26",
+  "company": "HDFC Bank Limited",
+  "ticker": "HDFCBANK",
+  "financial_year": "FY2025-26",
+  "period_end": "2026-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2025-26/reports/HDFC_Bank_IR26.pdf",
+  "investor_relations_url": "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports",
+  "publication_date": "not confirmed",
+  "page_count": 629,
+  "status": "approved",
+  "file_hash": "ec2d162371db0a5b4af04fe1ed78b77bd50e097259e1b940b4155139b20b4848",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 3,
+  "market_cap_inr_crore": "1228574.28",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "Integrated Annual Report\n2025-26\nHarnessing AI in Banking\n\nHarnessing \nAI in Banking \nArtificial Intelligence (AI) is shaping the \nbanking sector globally. Customers \nincreasingly expect banks to anticipate their \nneeds and provide a unified, omnichannel \nexperience across all digital and physical \ntouchpoints. By leveraging advanced \ntechnologies in a structured manner, banks \ncan meet these needs through intuitive tools, \nhighly personalised product suggestions, \nsmart financial advice, and quick problem \nresolution.\nAt HDFC Bank, we are building the \ncapabilities to participate meaningfully \nin this evolution. Over the past year, we \nhave used a more structured and scalable \napproach to enhance key customer and \noperational journeys across the Bank. This \nincludes improving customer engagement \nthrough real-time interactions, streamlining \ncard processing and trade operations with \nautomated workflows, strengthening risk \noversight through intelligent monitoring, and \nempowering employees by automating routine \ntasks. This progress is driven by Neev, our \nin-house enterprise AI platform that provides \na unified, secure foundation of model access, \ngovernance and workflow integra",
+  "statement_heading_candidate_pages": {
+    "4": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "320": [
+      "independent auditor"
+    ],
+    "344": [
+      "independent auditor",
+      "cash flow statement"
+    ],
+    "349": [
+      "cash flow statement"
+    ],
+    "351": [
+      "independent auditor"
+    ],
+    "355": [
+      "cash flow statement"
+    ],
+    "356": [
+      "cash flow statement"
+    ],
+    "457": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "464": [
+      "independent auditor"
+    ],
+    "465": [
+      "consolidated balance sheet"
+    ],
+    "466": [
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "469": [
+      "independent auditor"
+    ],
+    "471": [
+      "consolidated balance sheet"
+    ],
+    "472": [
+      "consolidated balance sheet"
+    ],
+    "473": [
+      "cash flow statement"
+    ],
+    "474": [
+      "cash flow statement"
+    ],
+    "475": [
+      "consolidated balance sheet"
+    ],
+    "477": [
+      "consolidated balance sheet"
+    ],
+    "479": [
+      "consolidated balance sheet"
+    ],
+    "481": [
+      "consolidated balance sheet"
+    ],
+    "483": [
+      "consolidated balance sheet"
+    ],
+    "490": [
+      "consolidated balance sheet"
+    ],
+    "491": [
+      "consolidated balance sheet"
+    ],
+    "492": [
+      "consolidated balance sheet"
+    ],
+    "493": [
+      "consolidated balance sheet"
+    ],
+    "496": [
+      "consolidated balance sheet"
+    ],
+    "497": [
+      "consolidated balance sheet"
+    ],
+    "498": [
+      "consolidated balance sheet"
+    ],
+    "499": [
+      "statement of profit and loss"
+    ],
+    "500": [
+      "consolidated balance sheet"
+    ],
+    "504": [
+      "consolidated balance sheet"
+    ],
+    "621": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

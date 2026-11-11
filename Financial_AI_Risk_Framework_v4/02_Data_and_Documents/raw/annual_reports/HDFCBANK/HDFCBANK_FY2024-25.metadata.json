@@ -1,0 +1,113 @@
+{
+  "document_id": "HDFCBANK-FY2024-25",
+  "company": "HDFC Bank Limited",
+  "ticker": "HDFCBANK",
+  "financial_year": "FY2024-25",
+  "period_end": "2025-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2024-25/HDFC_Bank_Annual_Report_2024_25-310202.pdf",
+  "investor_relations_url": "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports",
+  "publication_date": "not confirmed",
+  "page_count": 590,
+  "status": "approved",
+  "file_hash": "2a1879eee544526b7cecacb5380c2664f92e0d031361f5d54ffe55370c9487ea",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 3,
+  "market_cap_inr_crore": "1228574.28",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "\nPowering Progress \nTogether\nBanking today is more than managing \nmoney — it’s about fulﬁlling aspirations, \nand shaping futures. At HDFC Bank, we \nsee ourselves not just as custodians \nof capital but as partners in progress \nfor individuals, businesses, and \ncommunities alike. We aim to simplify \ncomplexities, unlock opportunities \nand help dreams take ﬂight. Our \nability to evolve with changing times—\npowered by innovation, a strong \nperformance culture and a deep sense \nof responsibility—has made us a trusted \nally in the everyday lives of millions \nacross India.\nWe believe in creating long-term, \nholistic value for all stakeholders. \nWhether it’s helping individuals \nrealise their ﬁnancial aspirations, \nenabling entrepreneurs to expand their \nbusinesses, supporting underprivileged \ncommunities through impactful \ninitiatives or contributing meaningfully \nto India’s socio-economic growth—\nour role goes far beyond traditional \nbanking. We are deeply committed to \nbeing a partner in progress both for our \ncustomers and for the nation.\n\nOpportunity Meets Execution\nOne of our key strengths lies in identifying high-potential \nopportunities and capitalising on them through execution. \n",
+  "statement_heading_candidate_pages": {
+    "4": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "283": [
+      "independent auditor"
+    ],
+    "305": [
+      "cash flow statement"
+    ],
+    "310": [
+      "cash flow statement"
+    ],
+    "313": [
+      "independent auditor"
+    ],
+    "423": [
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "427": [
+      "consolidated balance sheet"
+    ],
+    "434": [
+      "independent auditor"
+    ],
+    "436": [
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "439": [
+      "independent auditor"
+    ],
+    "441": [
+      "consolidated balance sheet"
+    ],
+    "442": [
+      "consolidated balance sheet"
+    ],
+    "445": [
+      "consolidated balance sheet"
+    ],
+    "447": [
+      "consolidated balance sheet"
+    ],
+    "449": [
+      "consolidated balance sheet"
+    ],
+    "451": [
+      "consolidated balance sheet"
+    ],
+    "460": [
+      "consolidated balance sheet"
+    ],
+    "462": [
+      "consolidated balance sheet"
+    ],
+    "465": [
+      "consolidated balance sheet"
+    ],
+    "467": [
+      "consolidated balance sheet"
+    ],
+    "468": [
+      "consolidated balance sheet"
+    ],
+    "470": [
+      "consolidated balance sheet"
+    ],
+    "474": [
+      "consolidated balance sheet"
+    ],
+    "479": [
+      "consolidated balance sheet"
+    ],
+    "587": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

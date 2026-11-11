@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+.DS_Store
+.env
+.env.local
+.env.*
+!.env.example
+06_Validation_Results/*.sqlite
+02_Data_and_Documents/processed/*.jsonl

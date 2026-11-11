@@ -1,0 +1,135 @@
+{
+  "as_of_date": "2026-11-10",
+  "selection_basis": "Top five by full equity market capitalization among NIFTY 50 constituents, using the latest completed BSE market-cap snapshot available on or before the as-of date (2026-11-09). Currency unit: INR crore.",
+  "market_cap_snapshot_source": "https://beta.bseindia.com/markets/equity/EQReports/TopMarketCapitalization.aspx",
+  "nifty50_membership_source": "https://archives.nseindia.com/content/indices/ind_nifty50.pdf",
+  "nifty50_membership_factsheet_date": "2026-09-30",
+  "companies": [
+    {
+      "rank": 1,
+      "company": "Reliance Industries Limited",
+      "ticker": "RELIANCE",
+      "market_cap_inr_crore": "1791572.80",
+      "market_cap_as_of": "2026-11-09",
+      "investor_relations": "https://www.ril.com/investors/financial-reporting",
+      "reports": [
+        {
+          "financial_year": "FY2023-24",
+          "period_end": "2024-03-31",
+          "url": "https://rilstaticasset.akamaized.net/sites/default/files/2024-08/RIL-Integrated-Annual-Report-2023-24.pdf"
+        },
+        {
+          "financial_year": "FY2024-25",
+          "period_end": "2025-03-31",
+          "url": "https://rilstaticasset.akamaized.net/sites/default/files/2025-08/RIL-Integrated-Annual-Report-2024-25.pdf"
+        },
+        {
+          "financial_year": "FY2025-26",
+          "period_end": "2026-03-31",
+          "url": "https://rilstaticasset.akamaized.net/sites/default/files/reports/RIL-Integrated-Annual-Report-2025-26.pdf"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "company": "Bharti Airtel Limited",
+      "ticker": "BHARTIARTL",
+      "market_cap_inr_crore": "1288663.47",
+      "market_cap_as_of": "2026-11-09",
+      "investor_relations": "https://www.airtel.in/about-bharti/equity/results",
+      "reports": [
+        {
+          "financial_year": "FY2023-24",
+          "period_end": "2024-03-31",
+          "url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2023_24/Integrated_Report_and_Financial_Statements.pdf"
+        },
+        {
+          "financial_year": "FY2024-25",
+          "period_end": "2025-03-31",
+          "url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2024_25/Integrated_Report_and_Annual_Financial_Statements.pdf"
+        },
+        {
+          "financial_year": "FY2025-26",
+          "period_end": "2026-03-31",
+          "url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2025_26/Airtel---Annual-Report-2026.pdf"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "company": "HDFC Bank Limited",
+      "ticker": "HDFCBANK",
+      "market_cap_inr_crore": "1228574.28",
+      "market_cap_as_of": "2026-11-09",
+      "investor_relations": "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports",
+      "reports": [
+        {
+          "financial_year": "FY2023-24",
+          "period_end": "2024-03-31",
+          "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2023-24/integrated-annual-report-2023-24.pdf"
+        },
+        {
+          "financial_year": "FY2024-25",
+          "period_end": "2025-03-31",
+          "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2024-25/HDFC_Bank_Annual_Report_2024_25-310202.pdf"
+        },
+        {
+          "financial_year": "FY2025-26",
+          "period_end": "2026-03-31",
+          "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2025-26/reports/HDFC_Bank_IR26.pdf"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "company": "ICICI Bank Limited",
+      "ticker": "ICICIBANK",
+      "market_cap_inr_crore": "1138218.33",
+      "market_cap_as_of": "2026-11-09",
+      "investor_relations": "https://www.icici.bank.in/about-us/annual",
+      "reports": [
+        {
+          "financial_year": "FY2023-24",
+          "period_end": "2024-03-31",
+          "url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2024/icici-bank-2024-financial-statements.pdf"
+        },
+        {
+          "financial_year": "FY2024-25",
+          "period_end": "2025-03-31",
+          "url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2025/icici-bank-2025-financial-statements.pdf"
+        },
+        {
+          "financial_year": "FY2025-26",
+          "period_end": "2026-03-31",
+          "url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2026/ICICI-BankAR2025-2026.pdf"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "company": "State Bank of India",
+      "ticker": "SBIN",
+      "market_cap_inr_crore": "961338.21",
+      "market_cap_as_of": "2026-11-09",
+      "investor_relations": "https://sbi.bank.in/web/corporate-governance/annual-report-",
+      "reports": [
+        {
+          "financial_year": "FY2023-24",
+          "period_end": "2024-03-31",
+          "url": "https://sbi.bank.in/documents/17836/39646794/Annual_Report_2024.pdf"
+        },
+        {
+          "financial_year": "FY2024-25",
+          "period_end": "2025-03-31",
+          "url": "https://sbi.bank.in/documents/17826/35696/Annual+Report+FY2025.pdf/1b6a1b79-a16d-b9d1-d28f-be8d7edf60d5?t=1745556744202"
+        },
+        {
+          "financial_year": "FY2025-26",
+          "period_end": "2026-03-31",
+          "url": "https://sbi.bank.in/documents/17836/58092042/Annual+Report+FY2026.pdf/0f165880-8752-4d67-6d87-422984f5cc3f?t=1778164340579"
+        }
+      ],
+      "source_caveat": "FY2023-24 direct PDF candidate is hosted on the MSEI annual-report archive; the corresponding issuer-hosted SBI download was not confirmed in discovery. Verify source/title before inclusion."
+    }
+  ]
+}

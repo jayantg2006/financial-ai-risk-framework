@@ -1,0 +1,178 @@
+{
+  "document_id": "BHARTIARTL-FY2025-26",
+  "company": "Bharti Airtel Limited",
+  "ticker": "BHARTIARTL",
+  "financial_year": "FY2025-26",
+  "period_end": "2026-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2025_26/Airtel---Annual-Report-2026.pdf",
+  "investor_relations_url": "https://www.airtel.in/about-bharti/equity/results",
+  "publication_date": "not confirmed",
+  "page_count": 271,
+  "status": "approved",
+  "file_hash": "b24a90e9e4aad5fd4b325f4643a221e814ece66ca43f77aade475609c16602a2",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 2,
+  "market_cap_inr_crore": "1288663.47",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "Customer Obsessed \nIntegrated Report and Annual Financial Statements 2025-26\nBharti Airtel Limited\nConnectivity & Beyond\n\nHighlights of FY 2025-26\nFinancial\nCustomers\nESG\nConsolidated*\nH2,109,728 Mn\nH1,079,460 Mn\nH301,127 Mn\nRevenue\nEBITDAaL\nNet Profit (before exceptional items)\n16.2%\n15.7%\n482.4 Mn\nIndia\nGVC LEVEL 1\nCRISIL Governance & value \nCreation Grading\n183.5 Mn\nAfrica\n57.4 Mn\nBangladesh\n20.6 Mn\nSri Lanka\n* To enable like-for-like comparison, FY 2024-25 Consolidated financials have been restated with full impact of consolidation of Indus Towers Limited with the Company\nPresence in Bangladesh and Sri Lanka through associate entities\n  Y-o-Y growth\nC+\nISS ESG prime rating\n71\nGlobal rank in Corporate Knights Clean200 list\nStandalone\nH1,214,927 Mn\nH623,918 Mn\nH170,906 Mn\nRevenue\nEBITDAaL\nNet Profit (before exceptional items)\n11.5%\n16.9%\nCustomer \nConnectivity & \nObsessed. \nBeyond.\nAirtel’s strategic evolution is rooted in a deep \nunderstanding of changing customer expectations \nin an increasingly connected world. As consumers \ndemand seamless experiences, enterprises accelerate \nmodernisation and intelligent technologies reshape \nengagement, the Company is building an integrated",
+  "statement_heading_candidate_pages": {
+    "123": [
+      "independent auditor"
+    ],
+    "163": [
+      "cash flow statement"
+    ],
+    "164": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "166": [
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "167": [
+      "independent auditor"
+    ],
+    "168": [
+      "independent auditor"
+    ],
+    "171": [
+      "statement of profit and loss"
+    ],
+    "172": [
+      "statement of changes in equity"
+    ],
+    "174": [
+      "statement of profit and loss"
+    ],
+    "175": [
+      "statement of profit and loss"
+    ],
+    "176": [
+      "statement of profit and loss"
+    ],
+    "177": [
+      "statement of profit and loss"
+    ],
+    "178": [
+      "statement of profit and loss"
+    ],
+    "179": [
+      "statement of profit and loss"
+    ],
+    "184": [
+      "statement of profit and loss"
+    ],
+    "195": [
+      "statement of profit and loss"
+    ],
+    "202": [
+      "statement of profit and loss"
+    ],
+    "204": [
+      "statement of profit and loss"
+    ],
+    "209": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "211": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "213": [
+      "independent auditor"
+    ],
+    "214": [
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "215": [
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "216": [
+      "consolidated statement of cash"
+    ],
+    "217": [
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "218": [
+      "statement of profit and loss"
+    ],
+    "219": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "220": [
+      "statement of profit and loss"
+    ],
+    "221": [
+      "statement of profit and loss"
+    ],
+    "222": [
+      "statement of profit and loss"
+    ],
+    "224": [
+      "statement of profit and loss"
+    ],
+    "226": [
+      "statement of profit and loss"
+    ],
+    "227": [
+      "statement of profit and loss"
+    ],
+    "231": [
+      "statement of profit and loss"
+    ],
+    "232": [
+      "statement of profit and loss"
+    ],
+    "233": [
+      "statement of profit and loss"
+    ],
+    "234": [
+      "statement of profit and loss"
+    ],
+    "235": [
+      "statement of profit and loss"
+    ],
+    "254": [
+      "statement of profit and loss"
+    ],
+    "256": [
+      "statement of profit and loss"
+    ],
+    "258": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

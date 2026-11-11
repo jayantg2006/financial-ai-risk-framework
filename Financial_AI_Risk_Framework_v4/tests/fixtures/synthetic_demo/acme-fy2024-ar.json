@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "document_id": "ACME-FY2024-AR",
+    "company": "Acme Industries",
+    "financial_year": "FY2024",
+    "document_type": "Synthetic annual report for software testing",
+    "source_url": "https://example.org/fdia-demo/acme-fy2024",
+    "publication_date": "2024-05-20",
+    "page_count": 4,
+    "status": "approved-demo",
+    "currency": "INR"
+  },
+  "pages": [
+    {
+      "page": 12,
+      "section": "Financial highlights",
+      "text": "Acme Industries reported revenue of INR 1,120 crore in FY2024, compared with INR 980 crore in FY2023. Operating profit was INR 168 crore and operating cash flow was INR 142 crore."
+    },
+    {
+      "page": 15,
+      "section": "Income and assets",
+      "text": "Net income was INR 91 crore in FY2024. Total assets at 31 March 2024 were INR 2,400 crore. Current assets were INR 860 crore and current liabilities were INR 430 crore. Capital expenditure was INR 75 crore."
+    },
+    {
+      "page": 24,
+      "section": "Borrowings and liquidity",
+      "text": "Total borrowings at 31 March 2024 were INR 310 crore. Cash and cash equivalents were INR 80 crore. The company reported no material covenant breach during FY2024."
+    },
+    {
+      "page": 31,
+      "section": "Risk management",
+      "text": "The company monitors liquidity, market and operational risks through quarterly management review. The risk committee reviewed liquidity limits four times during FY2024."
+    }
+  ]
+}

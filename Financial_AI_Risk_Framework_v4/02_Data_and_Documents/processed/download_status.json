@@ -1,0 +1,2116 @@
+{
+  "selection_source": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/top5_source_discovery.json",
+  "requested_reports": 15,
+  "downloaded_pending_review": 15,
+  "failed": 0,
+  "reports": [
+    {
+      "ticker": "BHARTIARTL",
+      "financial_year": "FY2023-24",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/BHARTIARTL/BHARTIARTL_FY2023-24.pdf",
+      "bytes": 23315442,
+      "sha256": "7b35fbd367b874cabdcc92c297d19bbf9ed071ab5991a2fee606e82b8cb681e2",
+      "page_count": 238,
+      "http_url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2023_24/Integrated_Report_and_Financial_Statements.pdf",
+      "candidate_heading_pages": {
+        "4": [
+          "independent auditor"
+        ],
+        "103": [
+          "independent auditor"
+        ],
+        "110": [
+          "independent auditor"
+        ],
+        "134": [
+          "cash flow statement"
+        ],
+        "135": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "136": [
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "137": [
+          "independent auditor"
+        ],
+        "138": [
+          "independent auditor"
+        ],
+        "141": [
+          "statement of profit and loss"
+        ],
+        "142": [
+          "statement of changes in equity"
+        ],
+        "144": [
+          "statement of profit and loss"
+        ],
+        "145": [
+          "statement of profit and loss"
+        ],
+        "146": [
+          "statement of profit and loss"
+        ],
+        "147": [
+          "statement of profit and loss"
+        ],
+        "148": [
+          "statement of profit and loss"
+        ],
+        "149": [
+          "statement of profit and loss"
+        ],
+        "153": [
+          "statement of profit and loss"
+        ],
+        "164": [
+          "statement of profit and loss"
+        ],
+        "170": [
+          "statement of profit and loss"
+        ],
+        "171": [
+          "statement of profit and loss"
+        ],
+        "172": [
+          "statement of profit and loss"
+        ],
+        "178": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "179": [
+          "independent auditor"
+        ],
+        "180": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "182": [
+          "independent auditor"
+        ],
+        "183": [
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "184": [
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "185": [
+          "consolidated statement of cash"
+        ],
+        "186": [
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "187": [
+          "statement of profit and loss"
+        ],
+        "188": [
+          "statement of profit and loss"
+        ],
+        "189": [
+          "statement of profit and loss"
+        ],
+        "190": [
+          "statement of profit and loss"
+        ],
+        "191": [
+          "statement of profit and loss"
+        ],
+        "192": [
+          "statement of profit and loss"
+        ],
+        "194": [
+          "statement of profit and loss"
+        ],
+        "198": [
+          "statement of profit and loss"
+        ],
+        "199": [
+          "statement of profit and loss"
+        ],
+        "200": [
+          "statement of profit and loss"
+        ],
+        "201": [
+          "statement of profit and loss"
+        ],
+        "202": [
+          "statement of profit and loss"
+        ],
+        "215": [
+          "statement of profit and loss"
+        ],
+        "220": [
+          "statement of profit and loss"
+        ],
+        "222": [
+          "statement of profit and loss"
+        ],
+        "224": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "BHARTIARTL",
+      "financial_year": "FY2024-25",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/BHARTIARTL/BHARTIARTL_FY2024-25.pdf",
+      "bytes": 26040548,
+      "sha256": "2f9e9614251a020d518804f761fd8662c94b2663b7e71bf60305171f2bf762d5",
+      "page_count": 257,
+      "http_url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2024_25/Integrated_Report_and_Annual_Financial_Statements.pdf",
+      "candidate_heading_pages": {
+        "116": [
+          "independent auditor"
+        ],
+        "123": [
+          "independent auditor"
+        ],
+        "150": [
+          "cash flow statement"
+        ],
+        "151": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "152": [
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "153": [
+          "independent auditor"
+        ],
+        "154": [
+          "independent auditor"
+        ],
+        "157": [
+          "statement of profit and loss"
+        ],
+        "158": [
+          "statement of changes in equity"
+        ],
+        "160": [
+          "statement of profit and loss"
+        ],
+        "161": [
+          "statement of profit and loss"
+        ],
+        "162": [
+          "statement of profit and loss"
+        ],
+        "163": [
+          "statement of profit and loss"
+        ],
+        "164": [
+          "statement of profit and loss"
+        ],
+        "165": [
+          "statement of profit and loss"
+        ],
+        "169": [
+          "statement of profit and loss"
+        ],
+        "181": [
+          "statement of profit and loss"
+        ],
+        "187": [
+          "statement of profit and loss"
+        ],
+        "189": [
+          "statement of profit and loss"
+        ],
+        "194": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "195": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "196": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "198": [
+          "independent auditor"
+        ],
+        "199": [
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "200": [
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "201": [
+          "consolidated statement of cash"
+        ],
+        "202": [
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "203": [
+          "statement of profit and loss"
+        ],
+        "204": [
+          "statement of profit and loss"
+        ],
+        "205": [
+          "statement of profit and loss"
+        ],
+        "206": [
+          "statement of profit and loss"
+        ],
+        "207": [
+          "statement of profit and loss"
+        ],
+        "208": [
+          "statement of profit and loss"
+        ],
+        "209": [
+          "statement of profit and loss"
+        ],
+        "210": [
+          "statement of profit and loss"
+        ],
+        "211": [
+          "statement of profit and loss"
+        ],
+        "212": [
+          "statement of profit and loss"
+        ],
+        "216": [
+          "statement of profit and loss"
+        ],
+        "218": [
+          "statement of profit and loss"
+        ],
+        "219": [
+          "statement of profit and loss"
+        ],
+        "220": [
+          "statement of profit and loss"
+        ],
+        "234": [
+          "statement of profit and loss"
+        ],
+        "239": [
+          "statement of profit and loss"
+        ],
+        "241": [
+          "statement of profit and loss"
+        ],
+        "243": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "BHARTIARTL",
+      "financial_year": "FY2025-26",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/BHARTIARTL/BHARTIARTL_FY2025-26.pdf",
+      "bytes": 20123126,
+      "sha256": "b24a90e9e4aad5fd4b325f4643a221e814ece66ca43f77aade475609c16602a2",
+      "page_count": 271,
+      "http_url": "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2025_26/Airtel---Annual-Report-2026.pdf",
+      "candidate_heading_pages": {
+        "123": [
+          "independent auditor"
+        ],
+        "163": [
+          "cash flow statement"
+        ],
+        "164": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "166": [
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "167": [
+          "independent auditor"
+        ],
+        "168": [
+          "independent auditor"
+        ],
+        "171": [
+          "statement of profit and loss"
+        ],
+        "172": [
+          "statement of changes in equity"
+        ],
+        "174": [
+          "statement of profit and loss"
+        ],
+        "175": [
+          "statement of profit and loss"
+        ],
+        "176": [
+          "statement of profit and loss"
+        ],
+        "177": [
+          "statement of profit and loss"
+        ],
+        "178": [
+          "statement of profit and loss"
+        ],
+        "179": [
+          "statement of profit and loss"
+        ],
+        "184": [
+          "statement of profit and loss"
+        ],
+        "195": [
+          "statement of profit and loss"
+        ],
+        "202": [
+          "statement of profit and loss"
+        ],
+        "204": [
+          "statement of profit and loss"
+        ],
+        "209": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "211": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "213": [
+          "independent auditor"
+        ],
+        "214": [
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "215": [
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "216": [
+          "consolidated statement of cash"
+        ],
+        "217": [
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "218": [
+          "statement of profit and loss"
+        ],
+        "219": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "220": [
+          "statement of profit and loss"
+        ],
+        "221": [
+          "statement of profit and loss"
+        ],
+        "222": [
+          "statement of profit and loss"
+        ],
+        "224": [
+          "statement of profit and loss"
+        ],
+        "226": [
+          "statement of profit and loss"
+        ],
+        "227": [
+          "statement of profit and loss"
+        ],
+        "231": [
+          "statement of profit and loss"
+        ],
+        "232": [
+          "statement of profit and loss"
+        ],
+        "233": [
+          "statement of profit and loss"
+        ],
+        "234": [
+          "statement of profit and loss"
+        ],
+        "235": [
+          "statement of profit and loss"
+        ],
+        "254": [
+          "statement of profit and loss"
+        ],
+        "256": [
+          "statement of profit and loss"
+        ],
+        "258": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "HDFCBANK",
+      "financial_year": "FY2023-24",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/HDFCBANK/HDFCBANK_FY2023-24.pdf",
+      "bytes": 15692637,
+      "sha256": "40f73920a8b153ecb04a826db8d916e904da9f99ba6dd1e054a9a2da60524793",
+      "page_count": 585,
+      "http_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2023-24/integrated-annual-report-2023-24.pdf",
+      "candidate_heading_pages": {
+        "5": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "276": [
+          "cash flow statement"
+        ],
+        "282": [
+          "cash flow statement"
+        ],
+        "284": [
+          "independent auditor"
+        ],
+        "390": [
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "402": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "404": [
+          "independent auditor"
+        ],
+        "406": [
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "409": [
+          "independent auditor"
+        ],
+        "412": [
+          "consolidated balance sheet"
+        ],
+        "413": [
+          "consolidated balance sheet"
+        ],
+        "416": [
+          "consolidated balance sheet"
+        ],
+        "430": [
+          "consolidated balance sheet"
+        ],
+        "432": [
+          "consolidated balance sheet"
+        ],
+        "434": [
+          "consolidated balance sheet"
+        ],
+        "436": [
+          "consolidated balance sheet"
+        ],
+        "437": [
+          "consolidated balance sheet"
+        ],
+        "438": [
+          "consolidated balance sheet"
+        ],
+        "443": [
+          "consolidated balance sheet"
+        ],
+        "447": [
+          "consolidated balance sheet"
+        ],
+        "512": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "HDFCBANK",
+      "financial_year": "FY2024-25",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/HDFCBANK/HDFCBANK_FY2024-25.pdf",
+      "bytes": 9438688,
+      "sha256": "2a1879eee544526b7cecacb5380c2664f92e0d031361f5d54ffe55370c9487ea",
+      "page_count": 590,
+      "http_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2024-25/HDFC_Bank_Annual_Report_2024_25-310202.pdf",
+      "candidate_heading_pages": {
+        "4": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "283": [
+          "independent auditor"
+        ],
+        "305": [
+          "cash flow statement"
+        ],
+        "310": [
+          "cash flow statement"
+        ],
+        "313": [
+          "independent auditor"
+        ],
+        "423": [
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "427": [
+          "consolidated balance sheet"
+        ],
+        "434": [
+          "independent auditor"
+        ],
+        "436": [
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "439": [
+          "independent auditor"
+        ],
+        "441": [
+          "consolidated balance sheet"
+        ],
+        "442": [
+          "consolidated balance sheet"
+        ],
+        "445": [
+          "consolidated balance sheet"
+        ],
+        "447": [
+          "consolidated balance sheet"
+        ],
+        "449": [
+          "consolidated balance sheet"
+        ],
+        "451": [
+          "consolidated balance sheet"
+        ],
+        "460": [
+          "consolidated balance sheet"
+        ],
+        "462": [
+          "consolidated balance sheet"
+        ],
+        "465": [
+          "consolidated balance sheet"
+        ],
+        "467": [
+          "consolidated balance sheet"
+        ],
+        "468": [
+          "consolidated balance sheet"
+        ],
+        "470": [
+          "consolidated balance sheet"
+        ],
+        "474": [
+          "consolidated balance sheet"
+        ],
+        "479": [
+          "consolidated balance sheet"
+        ],
+        "587": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "HDFCBANK",
+      "financial_year": "FY2025-26",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/HDFCBANK/HDFCBANK_FY2025-26.pdf",
+      "bytes": 18608098,
+      "sha256": "ec2d162371db0a5b4af04fe1ed78b77bd50e097259e1b940b4155139b20b4848",
+      "page_count": 629,
+      "http_url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2025-26/reports/HDFC_Bank_IR26.pdf",
+      "candidate_heading_pages": {
+        "4": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "320": [
+          "independent auditor"
+        ],
+        "344": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "349": [
+          "cash flow statement"
+        ],
+        "351": [
+          "independent auditor"
+        ],
+        "355": [
+          "cash flow statement"
+        ],
+        "356": [
+          "cash flow statement"
+        ],
+        "457": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "464": [
+          "independent auditor"
+        ],
+        "465": [
+          "consolidated balance sheet"
+        ],
+        "466": [
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "469": [
+          "independent auditor"
+        ],
+        "471": [
+          "consolidated balance sheet"
+        ],
+        "472": [
+          "consolidated balance sheet"
+        ],
+        "473": [
+          "cash flow statement"
+        ],
+        "474": [
+          "cash flow statement"
+        ],
+        "475": [
+          "consolidated balance sheet"
+        ],
+        "477": [
+          "consolidated balance sheet"
+        ],
+        "479": [
+          "consolidated balance sheet"
+        ],
+        "481": [
+          "consolidated balance sheet"
+        ],
+        "483": [
+          "consolidated balance sheet"
+        ],
+        "490": [
+          "consolidated balance sheet"
+        ],
+        "491": [
+          "consolidated balance sheet"
+        ],
+        "492": [
+          "consolidated balance sheet"
+        ],
+        "493": [
+          "consolidated balance sheet"
+        ],
+        "496": [
+          "consolidated balance sheet"
+        ],
+        "497": [
+          "consolidated balance sheet"
+        ],
+        "498": [
+          "consolidated balance sheet"
+        ],
+        "499": [
+          "statement of profit and loss"
+        ],
+        "500": [
+          "consolidated balance sheet"
+        ],
+        "504": [
+          "consolidated balance sheet"
+        ],
+        "621": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "ICICIBANK",
+      "financial_year": "FY2023-24",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/ICICIBANK/ICICIBANK_FY2023-24.pdf",
+      "bytes": 1381913,
+      "sha256": "95c0553b8a7e580365ae0e699f6eb7f7223f13549c120fdd9ccfd518c7d26c64",
+      "page_count": 192,
+      "http_url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2024/icici-bank-2024-financial-statements.pdf",
+      "candidate_heading_pages": {
+        "1": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "2": [
+          "independent auditor"
+        ],
+        "3": [
+          "independent auditor"
+        ],
+        "4": [
+          "independent auditor"
+        ],
+        "5": [
+          "independent auditor"
+        ],
+        "6": [
+          "independent auditor"
+        ],
+        "7": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "8": [
+          "independent auditor"
+        ],
+        "9": [
+          "independent auditor"
+        ],
+        "13": [
+          "cash flow statement"
+        ],
+        "14": [
+          "cash flow statement"
+        ],
+        "106": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "107": [
+          "independent auditor"
+        ],
+        "108": [
+          "independent auditor"
+        ],
+        "109": [
+          "independent auditor"
+        ],
+        "110": [
+          "independent auditor"
+        ],
+        "111": [
+          "independent auditor"
+        ],
+        "112": [
+          "independent auditor"
+        ],
+        "113": [
+          "independent auditor"
+        ],
+        "114": [
+          "independent auditor"
+        ],
+        "115": [
+          "independent auditor"
+        ],
+        "116": [
+          "independent auditor"
+        ],
+        "117": [
+          "independent auditor"
+        ],
+        "118": [
+          "independent auditor",
+          "consolidated balance sheet"
+        ],
+        "119": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "120": [
+          "independent auditor"
+        ],
+        "121": [
+          "independent auditor"
+        ],
+        "122": [
+          "independent auditor"
+        ],
+        "125": [
+          "consolidated balance sheet"
+        ],
+        "127": [
+          "cash flow statement"
+        ],
+        "128": [
+          "cash flow statement"
+        ],
+        "129": [
+          "consolidated balance sheet"
+        ],
+        "130": [
+          "consolidated balance sheet"
+        ],
+        "131": [
+          "consolidated balance sheet"
+        ],
+        "132": [
+          "consolidated balance sheet"
+        ],
+        "133": [
+          "consolidated balance sheet"
+        ],
+        "134": [
+          "consolidated balance sheet"
+        ],
+        "135": [
+          "consolidated balance sheet"
+        ],
+        "136": [
+          "consolidated balance sheet"
+        ],
+        "137": [
+          "consolidated balance sheet"
+        ]
+      }
+    },
+    {
+      "ticker": "ICICIBANK",
+      "financial_year": "FY2024-25",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/ICICIBANK/ICICIBANK_FY2024-25.pdf",
+      "bytes": 1706427,
+      "sha256": "774a4a2286824d7ab7b317ba9fe02659577362a121b831736f595773b1033077",
+      "page_count": 202,
+      "http_url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2025/icici-bank-2025-financial-statements.pdf",
+      "candidate_heading_pages": {
+        "1": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "2": [
+          "independent auditor"
+        ],
+        "3": [
+          "independent auditor"
+        ],
+        "4": [
+          "independent auditor"
+        ],
+        "5": [
+          "independent auditor"
+        ],
+        "6": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "7": [
+          "independent auditor"
+        ],
+        "8": [
+          "independent auditor"
+        ],
+        "9": [
+          "independent auditor"
+        ],
+        "13": [
+          "cash flow statement"
+        ],
+        "14": [
+          "cash flow statement"
+        ],
+        "111": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "112": [
+          "independent auditor"
+        ],
+        "113": [
+          "independent auditor"
+        ],
+        "114": [
+          "independent auditor"
+        ],
+        "115": [
+          "independent auditor"
+        ],
+        "116": [
+          "independent auditor"
+        ],
+        "117": [
+          "independent auditor"
+        ],
+        "118": [
+          "independent auditor"
+        ],
+        "119": [
+          "independent auditor"
+        ],
+        "120": [
+          "independent auditor"
+        ],
+        "121": [
+          "independent auditor"
+        ],
+        "122": [
+          "independent auditor"
+        ],
+        "123": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "124": [
+          "independent auditor"
+        ],
+        "125": [
+          "independent auditor"
+        ],
+        "126": [
+          "independent auditor"
+        ],
+        "129": [
+          "consolidated balance sheet"
+        ],
+        "131": [
+          "cash flow statement"
+        ],
+        "132": [
+          "cash flow statement"
+        ],
+        "133": [
+          "consolidated balance sheet"
+        ],
+        "134": [
+          "consolidated balance sheet"
+        ],
+        "135": [
+          "consolidated balance sheet"
+        ],
+        "136": [
+          "consolidated balance sheet"
+        ],
+        "137": [
+          "consolidated balance sheet"
+        ],
+        "138": [
+          "consolidated balance sheet"
+        ],
+        "139": [
+          "consolidated balance sheet"
+        ],
+        "140": [
+          "consolidated balance sheet"
+        ],
+        "141": [
+          "consolidated balance sheet"
+        ]
+      }
+    },
+    {
+      "ticker": "ICICIBANK",
+      "financial_year": "FY2025-26",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/ICICIBANK/ICICIBANK_FY2025-26.pdf",
+      "bytes": 20270758,
+      "sha256": "7ceb362ef3be6da13e4e350a7c379348aa39634c17743df167781c4d9bf3305f",
+      "page_count": 349,
+      "http_url": "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2026/ICICI-BankAR2025-2026.pdf",
+      "candidate_heading_pages": {
+        "3": [
+          "independent auditor"
+        ],
+        "135": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "136": [
+          "independent auditor"
+        ],
+        "137": [
+          "independent auditor"
+        ],
+        "138": [
+          "independent auditor"
+        ],
+        "139": [
+          "independent auditor"
+        ],
+        "140": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "141": [
+          "independent auditor"
+        ],
+        "142": [
+          "independent auditor"
+        ],
+        "143": [
+          "independent auditor"
+        ],
+        "147": [
+          "cash flow statement"
+        ],
+        "148": [
+          "cash flow statement"
+        ],
+        "251": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "252": [
+          "independent auditor"
+        ],
+        "253": [
+          "independent auditor"
+        ],
+        "254": [
+          "independent auditor"
+        ],
+        "255": [
+          "independent auditor"
+        ],
+        "256": [
+          "independent auditor"
+        ],
+        "257": [
+          "independent auditor"
+        ],
+        "258": [
+          "independent auditor"
+        ],
+        "259": [
+          "independent auditor"
+        ],
+        "260": [
+          "independent auditor"
+        ],
+        "261": [
+          "independent auditor"
+        ],
+        "262": [
+          "independent auditor"
+        ],
+        "263": [
+          "independent auditor"
+        ],
+        "264": [
+          "independent auditor"
+        ],
+        "265": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "266": [
+          "independent auditor"
+        ],
+        "267": [
+          "independent auditor"
+        ],
+        "268": [
+          "independent auditor"
+        ],
+        "271": [
+          "consolidated balance sheet"
+        ],
+        "273": [
+          "cash flow statement"
+        ],
+        "274": [
+          "cash flow statement"
+        ],
+        "275": [
+          "consolidated balance sheet"
+        ],
+        "276": [
+          "consolidated balance sheet"
+        ],
+        "277": [
+          "consolidated balance sheet"
+        ],
+        "278": [
+          "consolidated balance sheet"
+        ],
+        "279": [
+          "consolidated balance sheet"
+        ],
+        "280": [
+          "consolidated balance sheet"
+        ],
+        "281": [
+          "consolidated balance sheet"
+        ],
+        "282": [
+          "consolidated balance sheet"
+        ],
+        "283": [
+          "consolidated balance sheet"
+        ],
+        "284": [
+          "consolidated balance sheet"
+        ]
+      }
+    },
+    {
+      "ticker": "RELIANCE",
+      "financial_year": "FY2023-24",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/RELIANCE/RELIANCE_FY2023-24.pdf",
+      "bytes": 15471517,
+      "sha256": "d8e3739d2e06f09b83a192e00cefda0113b5da778483e31018cb35429e72eafe",
+      "page_count": 159,
+      "http_url": "https://rilstaticasset.akamaized.net/sites/default/files/2024-08/RIL-Integrated-Annual-Report-2023-24.pdf",
+      "candidate_heading_pages": {
+        "43": [
+          "cash flow statement"
+        ],
+        "48": [
+          "independent auditor"
+        ],
+        "61": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "62": [
+          "independent auditor"
+        ],
+        "63": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "64": [
+          "independent auditor"
+        ],
+        "65": [
+          "independent auditor"
+        ],
+        "66": [
+          "independent auditor"
+        ],
+        "68": [
+          "statement of profit and loss"
+        ],
+        "69": [
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "70": [
+          "statement of profit and loss"
+        ],
+        "71": [
+          "statement of profit and loss"
+        ],
+        "72": [
+          "statement of profit and loss"
+        ],
+        "73": [
+          "statement of profit and loss"
+        ],
+        "80": [
+          "statement of profit and loss"
+        ],
+        "81": [
+          "statement of profit and loss"
+        ],
+        "83": [
+          "statement of profit and loss"
+        ],
+        "88": [
+          "statement of profit and loss"
+        ],
+        "101": [
+          "statement of profit and loss"
+        ],
+        "104": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "105": [
+          "independent auditor"
+        ],
+        "106": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "107": [
+          "independent auditor"
+        ],
+        "108": [
+          "independent auditor"
+        ],
+        "109": [
+          "independent auditor"
+        ],
+        "110": [
+          "consolidated balance sheet"
+        ],
+        "111": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "112": [
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "113": [
+          "statement of profit and loss",
+          "consolidated statement of cash"
+        ],
+        "115": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "116": [
+          "statement of profit and loss"
+        ],
+        "117": [
+          "statement of profit and loss"
+        ],
+        "121": [
+          "statement of profit and loss"
+        ],
+        "123": [
+          "statement of profit and loss",
+          "cash flow statement"
+        ],
+        "132": [
+          "statement of profit and loss"
+        ],
+        "142": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "RELIANCE",
+      "financial_year": "FY2024-25",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/RELIANCE/RELIANCE_FY2024-25.pdf",
+      "bytes": 11762229,
+      "sha256": "bb541a68a0440fd4e27527afbb79f9a0e7584ae430fe9af244700709cacc0769",
+      "page_count": 146,
+      "http_url": "https://rilstaticasset.akamaized.net/sites/default/files/2025-08/RIL-Integrated-Annual-Report-2024-25.pdf",
+      "candidate_heading_pages": {
+        "34": [
+          "cash flow statement"
+        ],
+        "39": [
+          "independent auditor"
+        ],
+        "50": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "51": [
+          "independent auditor"
+        ],
+        "52": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "53": [
+          "independent auditor"
+        ],
+        "54": [
+          "independent auditor"
+        ],
+        "58": [
+          "statement of profit and loss"
+        ],
+        "59": [
+          "statement of changes in equity"
+        ],
+        "60": [
+          "statement of profit and loss"
+        ],
+        "61": [
+          "statement of profit and loss"
+        ],
+        "62": [
+          "statement of profit and loss"
+        ],
+        "63": [
+          "statement of profit and loss"
+        ],
+        "70": [
+          "statement of profit and loss"
+        ],
+        "73": [
+          "statement of profit and loss"
+        ],
+        "77": [
+          "statement of profit and loss"
+        ],
+        "90": [
+          "statement of profit and loss"
+        ],
+        "93": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "94": [
+          "independent auditor"
+        ],
+        "95": [
+          "independent auditor"
+        ],
+        "96": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "97": [
+          "independent auditor"
+        ],
+        "98": [
+          "independent auditor"
+        ],
+        "99": [
+          "consolidated balance sheet"
+        ],
+        "100": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "101": [
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "102": [
+          "statement of profit and loss",
+          "consolidated statement of cash"
+        ],
+        "104": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "105": [
+          "statement of profit and loss"
+        ],
+        "106": [
+          "statement of profit and loss"
+        ],
+        "110": [
+          "statement of profit and loss"
+        ],
+        "111": [
+          "statement of profit and loss"
+        ],
+        "112": [
+          "statement of profit and loss"
+        ],
+        "120": [
+          "statement of profit and loss"
+        ],
+        "130": [
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "RELIANCE",
+      "financial_year": "FY2025-26",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/RELIANCE/RELIANCE_FY2025-26.pdf",
+      "bytes": 9681400,
+      "sha256": "ed8affb5e7d2da16e19ed925be925b04a8ee581038ff75ada1a5d0cb7309c1e0",
+      "page_count": 147,
+      "http_url": "https://rilstaticasset.akamaized.net/sites/default/files/reports/RIL-Integrated-Annual-Report-2025-26.pdf",
+      "candidate_heading_pages": {
+        "35": [
+          "cash flow statement"
+        ],
+        "40": [
+          "independent auditor"
+        ],
+        "52": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "53": [
+          "independent auditor"
+        ],
+        "54": [
+          "independent auditor",
+          "statement of profit and loss",
+          "statement of changes in equity"
+        ],
+        "55": [
+          "independent auditor"
+        ],
+        "56": [
+          "independent auditor"
+        ],
+        "59": [
+          "statement of profit and loss"
+        ],
+        "60": [
+          "statement of changes in equity"
+        ],
+        "61": [
+          "statement of profit and loss"
+        ],
+        "62": [
+          "statement of profit and loss"
+        ],
+        "63": [
+          "statement of profit and loss"
+        ],
+        "64": [
+          "statement of profit and loss"
+        ],
+        "71": [
+          "statement of profit and loss"
+        ],
+        "74": [
+          "statement of profit and loss"
+        ],
+        "78": [
+          "statement of profit and loss"
+        ],
+        "92": [
+          "statement of profit and loss"
+        ],
+        "94": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "95": [
+          "independent auditor"
+        ],
+        "96": [
+          "independent auditor"
+        ],
+        "97": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss",
+          "consolidated statement of cash",
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "98": [
+          "independent auditor"
+        ],
+        "99": [
+          "independent auditor"
+        ],
+        "100": [
+          "consolidated balance sheet"
+        ],
+        "101": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "102": [
+          "consolidated statement of changes in equity",
+          "statement of changes in equity"
+        ],
+        "103": [
+          "statement of profit and loss",
+          "consolidated statement of cash"
+        ],
+        "105": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "106": [
+          "statement of profit and loss"
+        ],
+        "107": [
+          "statement of profit and loss"
+        ],
+        "109": [
+          "statement of profit and loss"
+        ],
+        "111": [
+          "statement of profit and loss"
+        ],
+        "118": [
+          "statement of profit and loss"
+        ],
+        "129": [
+          "statement of profit and loss"
+        ],
+        "144": [
+          "consolidated balance sheet"
+        ],
+        "145": [
+          "consolidated balance sheet",
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ],
+        "146": [
+          "consolidated statement of profit",
+          "statement of profit and loss"
+        ]
+      }
+    },
+    {
+      "ticker": "SBIN",
+      "financial_year": "FY2023-24",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/SBIN/SBIN_FY2023-24.pdf",
+      "bytes": 10612076,
+      "sha256": "d2691a82ace45b64eaf0f017b977421052d7aea3c513fd1bfa7305e319310e4b",
+      "page_count": 364,
+      "http_url": "https://sbi.bank.in/documents/17836/39646794/Annual_Report_2024.pdf",
+      "candidate_heading_pages": {
+        "160": [
+          "independent auditor"
+        ],
+        "236": [
+          "cash flow statement"
+        ],
+        "239": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "240": [
+          "independent auditor"
+        ],
+        "242": [
+          "independent auditor"
+        ],
+        "244": [
+          "independent auditor"
+        ],
+        "245": [
+          "cash flow statement"
+        ],
+        "247": [
+          "independent auditor"
+        ],
+        "248": [
+          "independent auditor"
+        ],
+        "250": [
+          "consolidated balance sheet"
+        ],
+        "251": [
+          "consolidated balance sheet"
+        ],
+        "252": [
+          "consolidated balance sheet"
+        ],
+        "254": [
+          "consolidated balance sheet"
+        ],
+        "256": [
+          "consolidated balance sheet"
+        ],
+        "258": [
+          "consolidated balance sheet"
+        ],
+        "262": [
+          "consolidated balance sheet"
+        ],
+        "264": [
+          "consolidated balance sheet"
+        ],
+        "266": [
+          "consolidated balance sheet"
+        ],
+        "268": [
+          "consolidated balance sheet"
+        ],
+        "270": [
+          "consolidated balance sheet"
+        ],
+        "272": [
+          "consolidated balance sheet"
+        ],
+        "274": [
+          "consolidated balance sheet"
+        ],
+        "276": [
+          "consolidated balance sheet"
+        ],
+        "278": [
+          "consolidated balance sheet"
+        ],
+        "280": [
+          "consolidated balance sheet"
+        ],
+        "282": [
+          "consolidated balance sheet"
+        ],
+        "284": [
+          "consolidated balance sheet"
+        ],
+        "286": [
+          "consolidated balance sheet"
+        ],
+        "288": [
+          "consolidated balance sheet"
+        ],
+        "290": [
+          "consolidated balance sheet"
+        ],
+        "292": [
+          "consolidated balance sheet"
+        ],
+        "294": [
+          "consolidated balance sheet"
+        ],
+        "296": [
+          "consolidated balance sheet"
+        ],
+        "297": [
+          "cash flow statement"
+        ],
+        "298": [
+          "cash flow statement"
+        ],
+        "299": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "300": [
+          "independent auditor"
+        ],
+        "302": [
+          "independent auditor"
+        ],
+        "304": [
+          "independent auditor"
+        ],
+        "306": [
+          "independent auditor"
+        ],
+        "307": [
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "308": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ]
+      }
+    },
+    {
+      "ticker": "SBIN",
+      "financial_year": "FY2024-25",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/SBIN/SBIN_FY2024-25.pdf",
+      "bytes": 16034561,
+      "sha256": "a096ad285fef718364b005feff39c38c75e9da3f81c42f800eecbf189a9d9330",
+      "page_count": 517,
+      "http_url": "https://sbi.bank.in/documents/17826/35696/Annual+Report+FY2025.pdf/1b6a1b79-a16d-b9d1-d28f-be8d7edf60d5?t=1745556744202",
+      "candidate_heading_pages": {
+        "165": [
+          "independent auditor"
+        ],
+        "245": [
+          "cash flow statement"
+        ],
+        "246": [
+          "cash flow statement"
+        ],
+        "248": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "250": [
+          "independent auditor"
+        ],
+        "252": [
+          "independent auditor"
+        ],
+        "253": [
+          "cash flow statement"
+        ],
+        "255": [
+          "independent auditor"
+        ],
+        "256": [
+          "independent auditor"
+        ],
+        "258": [
+          "consolidated balance sheet"
+        ],
+        "260": [
+          "consolidated balance sheet"
+        ],
+        "262": [
+          "consolidated balance sheet"
+        ],
+        "264": [
+          "consolidated balance sheet"
+        ],
+        "266": [
+          "consolidated balance sheet"
+        ],
+        "270": [
+          "consolidated balance sheet"
+        ],
+        "272": [
+          "consolidated balance sheet"
+        ],
+        "274": [
+          "consolidated balance sheet"
+        ],
+        "276": [
+          "consolidated balance sheet"
+        ],
+        "278": [
+          "consolidated balance sheet"
+        ],
+        "280": [
+          "consolidated balance sheet"
+        ],
+        "282": [
+          "consolidated balance sheet"
+        ],
+        "284": [
+          "consolidated balance sheet"
+        ],
+        "286": [
+          "consolidated balance sheet"
+        ],
+        "288": [
+          "consolidated balance sheet"
+        ],
+        "290": [
+          "consolidated balance sheet"
+        ],
+        "292": [
+          "consolidated balance sheet"
+        ],
+        "294": [
+          "consolidated balance sheet"
+        ],
+        "296": [
+          "consolidated balance sheet"
+        ],
+        "298": [
+          "consolidated balance sheet"
+        ],
+        "300": [
+          "consolidated balance sheet"
+        ],
+        "302": [
+          "consolidated balance sheet"
+        ],
+        "304": [
+          "consolidated balance sheet"
+        ],
+        "306": [
+          "consolidated balance sheet"
+        ],
+        "308": [
+          "cash flow statement"
+        ],
+        "310": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "312": [
+          "independent auditor"
+        ],
+        "314": [
+          "independent auditor"
+        ],
+        "316": [
+          "independent auditor"
+        ],
+        "317": [
+          "independent auditor"
+        ],
+        "318": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "320": [
+          "independent auditor"
+        ]
+      }
+    },
+    {
+      "ticker": "SBIN",
+      "financial_year": "FY2025-26",
+      "status": "downloaded_pending_review",
+      "path": "/home/ubuntu/Financial_AI_Risk_Framework_v4/02_Data_and_Documents/raw/annual_reports/SBIN/SBIN_FY2025-26.pdf",
+      "bytes": 19078288,
+      "sha256": "3675260e80fd4074f8be5b7fd51b1f0d1e1f3cfdbc5dc78b613a09b2ce2bd069",
+      "page_count": 592,
+      "http_url": "https://sbi.bank.in/documents/17836/58092042/Annual+Report+FY2026.pdf/0f165880-8752-4d67-6d87-422984f5cc3f?t=1778164340579",
+      "candidate_heading_pages": {
+        "197": [
+          "independent auditor"
+        ],
+        "291": [
+          "cash flow statement"
+        ],
+        "292": [
+          "cash flow statement"
+        ],
+        "294": [
+          "independent auditor",
+          "cash flow statement"
+        ],
+        "299": [
+          "cash flow statement"
+        ],
+        "301": [
+          "independent auditor"
+        ],
+        "304": [
+          "consolidated balance sheet"
+        ],
+        "305": [
+          "consolidated balance sheet"
+        ],
+        "306": [
+          "consolidated balance sheet"
+        ],
+        "307": [
+          "consolidated balance sheet"
+        ],
+        "308": [
+          "consolidated balance sheet"
+        ],
+        "309": [
+          "consolidated balance sheet"
+        ],
+        "310": [
+          "consolidated balance sheet"
+        ],
+        "311": [
+          "consolidated balance sheet"
+        ],
+        "312": [
+          "consolidated balance sheet"
+        ],
+        "316": [
+          "consolidated balance sheet"
+        ],
+        "317": [
+          "consolidated balance sheet"
+        ],
+        "318": [
+          "consolidated balance sheet"
+        ],
+        "319": [
+          "consolidated balance sheet"
+        ],
+        "320": [
+          "consolidated balance sheet"
+        ],
+        "321": [
+          "consolidated balance sheet"
+        ],
+        "322": [
+          "consolidated balance sheet"
+        ],
+        "323": [
+          "consolidated balance sheet"
+        ],
+        "324": [
+          "consolidated balance sheet"
+        ],
+        "325": [
+          "consolidated balance sheet"
+        ],
+        "326": [
+          "consolidated balance sheet"
+        ],
+        "327": [
+          "consolidated balance sheet"
+        ],
+        "328": [
+          "consolidated balance sheet"
+        ],
+        "329": [
+          "consolidated balance sheet"
+        ],
+        "330": [
+          "consolidated balance sheet"
+        ],
+        "331": [
+          "consolidated balance sheet"
+        ],
+        "332": [
+          "consolidated balance sheet"
+        ],
+        "333": [
+          "consolidated balance sheet"
+        ],
+        "334": [
+          "consolidated balance sheet"
+        ],
+        "335": [
+          "consolidated balance sheet"
+        ],
+        "336": [
+          "consolidated balance sheet"
+        ],
+        "337": [
+          "consolidated balance sheet"
+        ],
+        "338": [
+          "consolidated balance sheet"
+        ],
+        "339": [
+          "consolidated balance sheet"
+        ],
+        "340": [
+          "consolidated balance sheet"
+        ],
+        "341": [
+          "consolidated balance sheet"
+        ],
+        "342": [
+          "consolidated balance sheet"
+        ],
+        "343": [
+          "consolidated balance sheet"
+        ],
+        "344": [
+          "consolidated balance sheet"
+        ],
+        "345": [
+          "consolidated balance sheet"
+        ],
+        "346": [
+          "consolidated balance sheet"
+        ],
+        "347": [
+          "consolidated balance sheet"
+        ],
+        "348": [
+          "consolidated balance sheet"
+        ],
+        "349": [
+          "consolidated balance sheet"
+        ],
+        "350": [
+          "consolidated balance sheet"
+        ],
+        "351": [
+          "consolidated balance sheet"
+        ],
+        "352": [
+          "consolidated balance sheet"
+        ],
+        "353": [
+          "consolidated balance sheet"
+        ],
+        "354": [
+          "consolidated balance sheet"
+        ],
+        "355": [
+          "consolidated balance sheet"
+        ],
+        "356": [
+          "consolidated balance sheet"
+        ],
+        "357": [
+          "consolidated balance sheet"
+        ],
+        "358": [
+          "consolidated balance sheet"
+        ],
+        "359": [
+          "cash flow statement"
+        ],
+        "361": [
+          "independent auditor",
+          "consolidated balance sheet",
+          "cash flow statement"
+        ],
+        "371": [
+          "independent auditor"
+        ],
+        "372": [
+          "consolidated balance sheet",
+          "cash flow statement"
+        ]
+      }
+    }
+  ]
+}

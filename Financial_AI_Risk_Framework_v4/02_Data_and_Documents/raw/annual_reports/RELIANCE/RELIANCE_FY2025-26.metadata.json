@@ -1,0 +1,168 @@
+{
+  "document_id": "RELIANCE-FY2025-26",
+  "company": "Reliance Industries Limited",
+  "ticker": "RELIANCE",
+  "financial_year": "FY2025-26",
+  "period_end": "2026-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://rilstaticasset.akamaized.net/sites/default/files/reports/RIL-Integrated-Annual-Report-2025-26.pdf",
+  "investor_relations_url": "https://www.ril.com/investors/financial-reporting",
+  "publication_date": "not confirmed",
+  "page_count": 147,
+  "status": "approved",
+  "file_hash": "ed8affb5e7d2da16e19ed925be925b04a8ee581038ff75ada1a5d0cb7309c1e0",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 1,
+  "market_cap_inr_crore": "1791572.80",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "Integrated Annual Report\n2025-26\nPowering\nAspirational\nIndia\n\nReliance Industries Limited (RIL) is India’s largest private sector \nenterprise through sustained investment, disciplined execution and \na long-term commitment to the country. A Fortune 500 company, \nits businesses today span energy and materials, digital services, \nretail, media and entertainment, green technologies and AI, \ncollectively serving Millions of Indians across the economy.\nAs the country charts an ambitious path forward, Reliance \ncontinues to expand and transform in step with national priorities — \nanchored in its enduring philosophy that ‘Growth is Life’.\nLong Arc of \nValue Creation \nMarket \ncapitalisation  \nhas grown at a  \nCAGR of ~29%  \nsince listing in  \nFY 1977-78 \n#1 on Fortune  \n500 India\n#88 on the  \nFortune Global  \n500 – highest-\nranked Indian \ncompany\n#45 on the  \nForbes Global  \n2000 – highest-\nranked Indian \ncompany\nBuilding India’s \nCapabilities \nGigawatt-scale \nIntegrated clean \nenergy ecosystem \nunder development \n6,800+ patents \nfiled across next \ngeneration digital \ntechnologies driving \nIndia's progress \nin technological \ninnovation\nA workforce \nof 4,19,911 \nsupporting \noperations across",
+  "statement_heading_candidate_pages": {
+    "35": [
+      "cash flow statement"
+    ],
+    "40": [
+      "independent auditor"
+    ],
+    "52": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "53": [
+      "independent auditor"
+    ],
+    "54": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "55": [
+      "independent auditor"
+    ],
+    "56": [
+      "independent auditor"
+    ],
+    "59": [
+      "statement of profit and loss"
+    ],
+    "60": [
+      "statement of changes in equity"
+    ],
+    "61": [
+      "statement of profit and loss"
+    ],
+    "62": [
+      "statement of profit and loss"
+    ],
+    "63": [
+      "statement of profit and loss"
+    ],
+    "64": [
+      "statement of profit and loss"
+    ],
+    "71": [
+      "statement of profit and loss"
+    ],
+    "74": [
+      "statement of profit and loss"
+    ],
+    "78": [
+      "statement of profit and loss"
+    ],
+    "92": [
+      "statement of profit and loss"
+    ],
+    "94": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "95": [
+      "independent auditor"
+    ],
+    "96": [
+      "independent auditor"
+    ],
+    "97": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "98": [
+      "independent auditor"
+    ],
+    "99": [
+      "independent auditor"
+    ],
+    "100": [
+      "consolidated balance sheet"
+    ],
+    "101": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "102": [
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "103": [
+      "statement of profit and loss",
+      "consolidated statement of cash"
+    ],
+    "105": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "106": [
+      "statement of profit and loss"
+    ],
+    "107": [
+      "statement of profit and loss"
+    ],
+    "109": [
+      "statement of profit and loss"
+    ],
+    "111": [
+      "statement of profit and loss"
+    ],
+    "118": [
+      "statement of profit and loss"
+    ],
+    "129": [
+      "statement of profit and loss"
+    ],
+    "144": [
+      "consolidated balance sheet"
+    ],
+    "145": [
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "146": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

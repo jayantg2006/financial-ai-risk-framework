@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "kind": "pdf",
+      "path": "BHARTIARTL/BHARTIARTL_FY2023-24.pdf",
+      "bytes": 23315442,
+      "sha256": "7b35fbd367b874cabdcc92c297d19bbf9ed071ab5991a2fee606e82b8cb681e2"
+    },
+    {
+      "kind": "metadata",
+      "path": "BHARTIARTL/BHARTIARTL_FY2023-24.metadata.json",
+      "bytes": 6555,
+      "sha256": "66c64d7a36935eb2bd3b4b5b7583b5336c220c7e15cc8e6b0169f50eb81e29e0"
+    },
+    {
+      "kind": "pdf",
+      "path": "BHARTIARTL/BHARTIARTL_FY2024-25.pdf",
+      "bytes": 26040548,
+      "sha256": "2f9e9614251a020d518804f761fd8662c94b2663b7e71bf60305171f2bf762d5"
+    },
+    {
+      "kind": "metadata",
+      "path": "BHARTIARTL/BHARTIARTL_FY2024-25.metadata.json",
+      "bytes": 6585,
+      "sha256": "6d36001c7959ccb8e777a48e808db46f060e75149e75096d144841a85bbb23a6"
+    },
+    {
+      "kind": "pdf",
+      "path": "BHARTIARTL/BHARTIARTL_FY2025-26.pdf",
+      "bytes": 20123126,
+      "sha256": "b24a90e9e4aad5fd4b325f4643a221e814ece66ca43f77aade475609c16602a2"
+    },
+    {
+      "kind": "metadata",
+      "path": "BHARTIARTL/BHARTIARTL_FY2025-26.metadata.json",
+      "bytes": 6367,
+      "sha256": "d731d83b7e9f8427e3a5eee25c3bd6803ea8f7d249f6e7040ddc5798d80cf06f"
+    },
+    {
+      "kind": "pdf",
+      "path": "HDFCBANK/HDFCBANK_FY2023-24.pdf",
+      "bytes": 15692637,
+      "sha256": "40f73920a8b153ecb04a826db8d916e904da9f99ba6dd1e054a9a2da60524793"
+    },
+    {
+      "kind": "metadata",
+      "path": "HDFCBANK/HDFCBANK_FY2023-24.metadata.json",
+      "bytes": 4493,
+      "sha256": "bdf6908f7c3a734b15acdd2474c50f9e921090508b9137bfc1a101b8f9dcb8e0"
+    },
+    {
+      "kind": "pdf",
+      "path": "HDFCBANK/HDFCBANK_FY2024-25.pdf",
+      "bytes": 9438688,
+      "sha256": "2a1879eee544526b7cecacb5380c2664f92e0d031361f5d54ffe55370c9487ea"
+    },
+    {
+      "kind": "metadata",
+      "path": "HDFCBANK/HDFCBANK_FY2024-25.metadata.json",
+      "bytes": 4700,
+      "sha256": "259604c220d1c6737c624324342e9828d86c0a3282a51ea6891c4d11ef1e4b89"
+    },
+    {
+      "kind": "pdf",
+      "path": "HDFCBANK/HDFCBANK_FY2025-26.pdf",
+      "bytes": 18608098,
+      "sha256": "ec2d162371db0a5b4af04fe1ed78b77bd50e097259e1b940b4155139b20b4848"
+    },
+    {
+      "kind": "metadata",
+      "path": "HDFCBANK/HDFCBANK_FY2025-26.metadata.json",
+      "bytes": 5078,
+      "sha256": "7bd2aacaf81f7bbcdd8882f1a67044a29bc7a3cfd3817f8be8b185e3a429e5b8"
+    },
+    {
+      "kind": "pdf",
+      "path": "ICICIBANK/ICICIBANK_FY2023-24.pdf",
+      "bytes": 1381913,
+      "sha256": "95c0553b8a7e580365ae0e699f6eb7f7223f13549c120fdd9ccfd518c7d26c64"
+    },
+    {
+      "kind": "metadata",
+      "path": "ICICIBANK/ICICIBANK_FY2023-24.metadata.json",
+      "bytes": 5431,
+      "sha256": "b97d14404752279787f65babc5c768e968c8c9391e6439b3c4d7f7244bd958de"
+    },
+    {
+      "kind": "pdf",
+      "path": "ICICIBANK/ICICIBANK_FY2024-25.pdf",
+      "bytes": 1706427,
+      "sha256": "774a4a2286824d7ab7b317ba9fe02659577362a121b831736f595773b1033077"
+    },
+    {
+      "kind": "metadata",
+      "path": "ICICIBANK/ICICIBANK_FY2024-25.metadata.json",
+      "bytes": 5322,
+      "sha256": "f24629d818edc3a13b09dd29aa5cb382c129d839f2994002cd3d381b5084b34f"
+    },
+    {
+      "kind": "pdf",
+      "path": "ICICIBANK/ICICIBANK_FY2025-26.pdf",
+      "bytes": 20270758,
+      "sha256": "7ceb362ef3be6da13e4e350a7c379348aa39634c17743df167781c4d9bf3305f"
+    },
+    {
+      "kind": "metadata",
+      "path": "ICICIBANK/ICICIBANK_FY2025-26.metadata.json",
+      "bytes": 5553,
+      "sha256": "149d48d8324315521701ef0f2b3ff6e53c2d8149807fa17627a7e2a696ca424d"
+    },
+    {
+      "kind": "pdf",
+      "path": "RELIANCE/RELIANCE_FY2023-24.pdf",
+      "bytes": 15471517,
+      "sha256": "d8e3739d2e06f09b83a192e00cefda0113b5da778483e31018cb35429e72eafe"
+    },
+    {
+      "kind": "metadata",
+      "path": "RELIANCE/RELIANCE_FY2023-24.metadata.json",
+      "bytes": 6032,
+      "sha256": "0345addba9bcc911fbad67167996784953f3dcd53004fcedc3b718805a721c3b"
+    },
+    {
+      "kind": "pdf",
+      "path": "RELIANCE/RELIANCE_FY2024-25.pdf",
+      "bytes": 11762229,
+      "sha256": "bb541a68a0440fd4e27527afbb79f9a0e7584ae430fe9af244700709cacc0769"
+    },
+    {
+      "kind": "metadata",
+      "path": "RELIANCE/RELIANCE_FY2024-25.metadata.json",
+      "bytes": 5953,
+      "sha256": "ed4e38981219a9d3ead6bda266f58af03df7db54cf638f0b1674d80331f16e81"
+    },
+    {
+      "kind": "pdf",
+      "path": "RELIANCE/RELIANCE_FY2025-26.pdf",
+      "bytes": 9681400,
+      "sha256": "ed8affb5e7d2da16e19ed925be925b04a8ee581038ff75ada1a5d0cb7309c1e0"
+    },
+    {
+      "kind": "metadata",
+      "path": "RELIANCE/RELIANCE_FY2025-26.metadata.json",
+      "bytes": 6154,
+      "sha256": "841db7618cd25c455f8a33dbdaf4132b6b7d9a3ee23f56980487a4e2fb8ef23b"
+    },
+    {
+      "kind": "pdf",
+      "path": "SBIN/SBIN_FY2023-24.pdf",
+      "bytes": 10612076,
+      "sha256": "d2691a82ace45b64eaf0f017b977421052d7aea3c513fd1bfa7305e319310e4b"
+    },
+    {
+      "kind": "metadata",
+      "path": "SBIN/SBIN_FY2023-24.metadata.json",
+      "bytes": 5605,
+      "sha256": "20353b909ca53ad18038f8848dc0b9c16bf6596b63842fc0723521b9bf0f80cc"
+    },
+    {
+      "kind": "pdf",
+      "path": "SBIN/SBIN_FY2024-25.pdf",
+      "bytes": 16034561,
+      "sha256": "a096ad285fef718364b005feff39c38c75e9da3f81c42f800eecbf189a9d9330"
+    },
+    {
+      "kind": "metadata",
+      "path": "SBIN/SBIN_FY2024-25.metadata.json",
+      "bytes": 5577,
+      "sha256": "e7c200af73a3c1ef11c5ead26899c7e956b34fb220b886c9d78beb1d04e01419"
+    },
+    {
+      "kind": "pdf",
+      "path": "SBIN/SBIN_FY2025-26.pdf",
+      "bytes": 19078288,
+      "sha256": "3675260e80fd4074f8be5b7fd51b1f0d1e1f3cfdbc5dc78b613a09b2ce2bd069"
+    },
+    {
+      "kind": "metadata",
+      "path": "SBIN/SBIN_FY2025-26.metadata.json",
+      "bytes": 6737,
+      "sha256": "3c2d5530212bd6ec1e725212075b525dd31885041e00bf02f112a90bd4b39ea0"
+    }
+  ],
+  "chunk_count": 31747,
+  "output_sha256": "a54ed86e3f1b818764083e431609ac13203f952ba5d00fd6e8ad98f3f40e983a",
+  "extract_tables": false
+}

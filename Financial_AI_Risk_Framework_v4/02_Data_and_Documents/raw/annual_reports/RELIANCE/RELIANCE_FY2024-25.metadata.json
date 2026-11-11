@@ -1,0 +1,159 @@
+{
+  "document_id": "RELIANCE-FY2024-25",
+  "company": "Reliance Industries Limited",
+  "ticker": "RELIANCE",
+  "financial_year": "FY2024-25",
+  "period_end": "2025-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://rilstaticasset.akamaized.net/sites/default/files/2025-08/RIL-Integrated-Annual-Report-2024-25.pdf",
+  "investor_relations_url": "https://www.ril.com/investors/financial-reporting",
+  "publication_date": "not confirmed",
+  "page_count": 146,
+  "status": "approved",
+  "file_hash": "bb541a68a0440fd4e27527afbb79f9a0e7584ae430fe9af244700709cacc0769",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 1,
+  "market_cap_inr_crore": "1791572.80",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "Integrated Annual Report\n2024-25\nRealising\nAspirations\nAccessibility\nReliability\nVariety\nMobility\nConnectivity\nResponsibility\nSustainability\n\nTABLE OF CONTENTS\nREPORTING SUITE \n2024-25\nRIL’s Annual Reporting suite brings \ntogether the financial, non-financial, \nrisk, and sustainability performance for \nthe year.\nCorporate Overview\n2 \nReliance at a Glance\n3 \nStakeholder Value Creation\n4 \nChairman and Managing Director’s Statement\n6 \n10-year Financial Highlights\nManagement Discussion and Analysis\n7 \nFinancial Performance and Review\n\t\nBusiness Overview\n9 \n\t Retail\n12 \n Digital Services\n15 \n Media and Entertainment\n19 \n Oil to Chemicals\n22 \n Oil and Gas\n25 \nRisk and Governance\n28 \nMajor Awards and Recognitions\nIntegrated Approach to Sustainable Growth\n30 \nIntegrated Approach to ESG Governance\n32 \n\u0007Making Significant Strides towards a\nNet Carbon Zero Future\n33 \nApproach to Climate-related Disclosures\n34\t\n N \t Natural Capital\n37\t\n H \t Human Capital\n38\t\n M \t Manufactured Capital\n39\t\n I \t Intellectual Capital\n39\t\n S \t Social and Relationship Capital\n41 \nIndependent Assurance on Sustainability Disclosures\nGovernance\n45 \nCorporate Governance Report\n76 \nBoard’s Report\nFinancial Statements\n97 ",
+  "statement_heading_candidate_pages": {
+    "34": [
+      "cash flow statement"
+    ],
+    "39": [
+      "independent auditor"
+    ],
+    "50": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "51": [
+      "independent auditor"
+    ],
+    "52": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "53": [
+      "independent auditor"
+    ],
+    "54": [
+      "independent auditor"
+    ],
+    "58": [
+      "statement of profit and loss"
+    ],
+    "59": [
+      "statement of changes in equity"
+    ],
+    "60": [
+      "statement of profit and loss"
+    ],
+    "61": [
+      "statement of profit and loss"
+    ],
+    "62": [
+      "statement of profit and loss"
+    ],
+    "63": [
+      "statement of profit and loss"
+    ],
+    "70": [
+      "statement of profit and loss"
+    ],
+    "73": [
+      "statement of profit and loss"
+    ],
+    "77": [
+      "statement of profit and loss"
+    ],
+    "90": [
+      "statement of profit and loss"
+    ],
+    "93": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "94": [
+      "independent auditor"
+    ],
+    "95": [
+      "independent auditor"
+    ],
+    "96": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "97": [
+      "independent auditor"
+    ],
+    "98": [
+      "independent auditor"
+    ],
+    "99": [
+      "consolidated balance sheet"
+    ],
+    "100": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "101": [
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "102": [
+      "statement of profit and loss",
+      "consolidated statement of cash"
+    ],
+    "104": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "105": [
+      "statement of profit and loss"
+    ],
+    "106": [
+      "statement of profit and loss"
+    ],
+    "110": [
+      "statement of profit and loss"
+    ],
+    "111": [
+      "statement of profit and loss"
+    ],
+    "112": [
+      "statement of profit and loss"
+    ],
+    "120": [
+      "statement of profit and loss"
+    ],
+    "130": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "document_id": "SBIN-FY2025-26",
+  "company": "State Bank of India",
+  "ticker": "SBIN",
+  "financial_year": "FY2025-26",
+  "period_end": "2026-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://sbi.bank.in/documents/17836/58092042/Annual+Report+FY2026.pdf/0f165880-8752-4d67-6d87-422984f5cc3f?t=1778164340579",
+  "investor_relations_url": "https://sbi.bank.in/web/corporate-governance/annual-report-",
+  "publication_date": "not confirmed",
+  "page_count": 592,
+  "status": "approved",
+  "file_hash": "3675260e80fd4074f8be5b7fd51b1f0d1e1f3cfdbc5dc78b613a09b2ce2bd069",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 5,
+  "market_cap_inr_crore": "961338.21",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "DIGITAL FIRST\nCUSTOMER FIRST\nNATION ALWAYS\nANNUAL REPORT\n2025-26\n\nIndex\nCompany Overview\nSBI at a Glance\n02\nProducts and Services\n06\nFinancial Legacy\n08\nRatings\n09\nAwards and Recognitions\n10\nPresence\n12\nChairman’s Message\n14\nResponsible Approach\nEnvironmental Stewardship\n20\nCustomer Delight\n22\nPeople\n24\nCommunity Connect\n26\nDigital Empowerment\n28\nEmpowering Inclusion\n30\nGovernance\nSteering Leadership\n34\nCentral Board of Directors\n35\nCommittees of the Board\n36\nMembers of the Central \nManagement Committee\n38\nMembers of Local Boards\n39\nBank’s Auditors\n39\nGroup Structure\n40\nStatutory Reports\nDirectors’ Report\n44\nCorporate Governance Report\n157\nBusiness Responsibility and  \nSustainability Report\n196\nFinancial Statements\nStandalone\n198\nConsolidated\n302\nPillar 3 Disclosures \n(Consolidated)\n372\nNotice\n409\nGreen Initiative in Corporate \nGovernance\n417\n\nDIGITAL FIRST\nCUSTOMER FIRST\nNATION ALWAYS\nBy embracing a digital-first mindset, we \nleverage advanced technology to create a \npurpose-led, innovation-centric ecosystem \ndesigned to serve the customers better. At the \nsame time, we remain steadfastly committed \nto partnering India in its journey of economic \nresilience and long-term progress.",
+  "statement_heading_candidate_pages": {
+    "197": [
+      "independent auditor"
+    ],
+    "291": [
+      "cash flow statement"
+    ],
+    "292": [
+      "cash flow statement"
+    ],
+    "294": [
+      "independent auditor",
+      "cash flow statement"
+    ],
+    "299": [
+      "cash flow statement"
+    ],
+    "301": [
+      "independent auditor"
+    ],
+    "304": [
+      "consolidated balance sheet"
+    ],
+    "305": [
+      "consolidated balance sheet"
+    ],
+    "306": [
+      "consolidated balance sheet"
+    ],
+    "307": [
+      "consolidated balance sheet"
+    ],
+    "308": [
+      "consolidated balance sheet"
+    ],
+    "309": [
+      "consolidated balance sheet"
+    ],
+    "310": [
+      "consolidated balance sheet"
+    ],
+    "311": [
+      "consolidated balance sheet"
+    ],
+    "312": [
+      "consolidated balance sheet"
+    ],
+    "316": [
+      "consolidated balance sheet"
+    ],
+    "317": [
+      "consolidated balance sheet"
+    ],
+    "318": [
+      "consolidated balance sheet"
+    ],
+    "319": [
+      "consolidated balance sheet"
+    ],
+    "320": [
+      "consolidated balance sheet"
+    ],
+    "321": [
+      "consolidated balance sheet"
+    ],
+    "322": [
+      "consolidated balance sheet"
+    ],
+    "323": [
+      "consolidated balance sheet"
+    ],
+    "324": [
+      "consolidated balance sheet"
+    ],
+    "325": [
+      "consolidated balance sheet"
+    ],
+    "326": [
+      "consolidated balance sheet"
+    ],
+    "327": [
+      "consolidated balance sheet"
+    ],
+    "328": [
+      "consolidated balance sheet"
+    ],
+    "329": [
+      "consolidated balance sheet"
+    ],
+    "330": [
+      "consolidated balance sheet"
+    ],
+    "331": [
+      "consolidated balance sheet"
+    ],
+    "332": [
+      "consolidated balance sheet"
+    ],
+    "333": [
+      "consolidated balance sheet"
+    ],
+    "334": [
+      "consolidated balance sheet"
+    ],
+    "335": [
+      "consolidated balance sheet"
+    ],
+    "336": [
+      "consolidated balance sheet"
+    ],
+    "337": [
+      "consolidated balance sheet"
+    ],
+    "338": [
+      "consolidated balance sheet"
+    ],
+    "339": [
+      "consolidated balance sheet"
+    ],
+    "340": [
+      "consolidated balance sheet"
+    ],
+    "341": [
+      "consolidated balance sheet"
+    ],
+    "342": [
+      "consolidated balance sheet"
+    ],
+    "343": [
+      "consolidated balance sheet"
+    ],
+    "344": [
+      "consolidated balance sheet"
+    ],
+    "345": [
+      "consolidated balance sheet"
+    ],
+    "346": [
+      "consolidated balance sheet"
+    ],
+    "347": [
+      "consolidated balance sheet"
+    ],
+    "348": [
+      "consolidated balance sheet"
+    ],
+    "349": [
+      "consolidated balance sheet"
+    ],
+    "350": [
+      "consolidated balance sheet"
+    ],
+    "351": [
+      "consolidated balance sheet"
+    ],
+    "352": [
+      "consolidated balance sheet"
+    ],
+    "353": [
+      "consolidated balance sheet"
+    ],
+    "354": [
+      "consolidated balance sheet"
+    ],
+    "355": [
+      "consolidated balance sheet"
+    ],
+    "356": [
+      "consolidated balance sheet"
+    ],
+    "357": [
+      "consolidated balance sheet"
+    ],
+    "358": [
+      "consolidated balance sheet"
+    ],
+    "359": [
+      "cash flow statement"
+    ],
+    "361": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "cash flow statement"
+    ],
+    "371": [
+      "independent auditor"
+    ],
+    "372": [
+      "consolidated balance sheet",
+      "cash flow statement"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

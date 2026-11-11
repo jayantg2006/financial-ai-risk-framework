@@ -1,0 +1,164 @@
+{
+  "document_id": "RELIANCE-FY2023-24",
+  "company": "Reliance Industries Limited",
+  "ticker": "RELIANCE",
+  "financial_year": "FY2023-24",
+  "period_end": "2024-03-31",
+  "document_type": "Official annual/integrated report or separately published financial statements, including audited consolidated financial statements",
+  "source_url": "https://rilstaticasset.akamaized.net/sites/default/files/2024-08/RIL-Integrated-Annual-Report-2023-24.pdf",
+  "investor_relations_url": "https://www.ril.com/investors/financial-reporting",
+  "publication_date": "not confirmed",
+  "page_count": 159,
+  "status": "approved",
+  "file_hash": "d8e3739d2e06f09b83a192e00cefda0113b5da778483e31018cb35429e72eafe",
+  "reporting_basis": "consolidated audited financial statements included; manually checked in PDF text",
+  "currency": "INR; unit/scale varies by statement page and is captured in the page text",
+  "market_cap_rank": 1,
+  "market_cap_inr_crore": "1791572.80",
+  "market_cap_as_of": "2026-11-09",
+  "selection_basis": "Top five full market capitalization among NIFTY 50 constituents",
+  "text_front_matter_excerpt": "Reliance for\nENTERTAINMENT\nDIGITAL SERVICES\nSPORTS\nRETAIL\nEDUCATION\nEMPOWERMENT\nMATERIALS\n ENERGY\nIntegrated Annual Report 2023-24 \n\nOur dreams have to be bigger. \nOur ambitions higher. \nOur commitment deeper. \nAnd our efforts greater. \nThis is my dream for Reliance \nand for India.\nShri Dhirubhai H. Ambani \nFounder Chairman \nReliance Industries Limited \n(RIL) is a Fortune Global 500 \ncompany and the largest \nprivate sector company \nin India. The growth of \nReliance mirrors the \nrelentless spirit of dynamism \nand hope that defines India. \nIt is this spirit that Reliance \nis committed to foster, and it \nis articulated in our timeless \nexpression of intent, \n‘Growth is Life’.\nAbout this Report \nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith the Integrated Reporting <IR> \nFramework. In preparation for the Report, \nGRI Standards, National Guidelines for \nResponsible Business Conduct (NGRBC), \nUnited Nations Sustainable Development \nGoals (UN SDGs) and 13 other frameworks \nwere referenced. The Report outlines \nRIL’s commitment to stakeholder value \ncreation and defines the actions taken and \noutcomes achieved for it’s stakeholders. \nThe first Indian company t",
+  "statement_heading_candidate_pages": {
+    "43": [
+      "cash flow statement"
+    ],
+    "48": [
+      "independent auditor"
+    ],
+    "61": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "62": [
+      "independent auditor"
+    ],
+    "63": [
+      "independent auditor",
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "64": [
+      "independent auditor"
+    ],
+    "65": [
+      "independent auditor"
+    ],
+    "66": [
+      "independent auditor"
+    ],
+    "68": [
+      "statement of profit and loss"
+    ],
+    "69": [
+      "statement of profit and loss",
+      "statement of changes in equity"
+    ],
+    "70": [
+      "statement of profit and loss"
+    ],
+    "71": [
+      "statement of profit and loss"
+    ],
+    "72": [
+      "statement of profit and loss"
+    ],
+    "73": [
+      "statement of profit and loss"
+    ],
+    "80": [
+      "statement of profit and loss"
+    ],
+    "81": [
+      "statement of profit and loss"
+    ],
+    "83": [
+      "statement of profit and loss"
+    ],
+    "88": [
+      "statement of profit and loss"
+    ],
+    "101": [
+      "statement of profit and loss"
+    ],
+    "104": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "105": [
+      "independent auditor"
+    ],
+    "106": [
+      "independent auditor",
+      "consolidated balance sheet",
+      "consolidated statement of profit",
+      "statement of profit and loss",
+      "consolidated statement of cash",
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "107": [
+      "independent auditor"
+    ],
+    "108": [
+      "independent auditor"
+    ],
+    "109": [
+      "independent auditor"
+    ],
+    "110": [
+      "consolidated balance sheet"
+    ],
+    "111": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "112": [
+      "consolidated statement of changes in equity",
+      "statement of changes in equity"
+    ],
+    "113": [
+      "statement of profit and loss",
+      "consolidated statement of cash"
+    ],
+    "115": [
+      "consolidated statement of profit",
+      "statement of profit and loss"
+    ],
+    "116": [
+      "statement of profit and loss"
+    ],
+    "117": [
+      "statement of profit and loss"
+    ],
+    "121": [
+      "statement of profit and loss"
+    ],
+    "123": [
+      "statement of profit and loss",
+      "cash flow statement"
+    ],
+    "132": [
+      "statement of profit and loss"
+    ],
+    "142": [
+      "statement of profit and loss"
+    ]
+  },
+  "review_status": "Approved for research prototype indexing after PDF integrity, issuer/year identity, and consolidated audited statement headings were checked; analyst must verify cited source page and statement unit before use.",
+  "review_date": "2026-11-10",
+  "approval_basis": {
+    "pdf_signature": "validated by downloader",
+    "sha256_verified": true,
+    "page_count_verified": true,
+    "issuer_and_fiscal_period": "checked against extracted cover/report labels",
+    "consolidated_audited_statements": "checked against auditor opinion and/or consolidated statement headings in PDF text",
+    "currency_unit": "INR confirmed; scale must be checked per cited page",
+    "visual_table_review": "not completed for every financial table; verify PDF page before relying on extracted numbers"
+  }
+}

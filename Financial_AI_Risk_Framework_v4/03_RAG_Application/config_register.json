@@ -1,0 +1,18 @@
+{
+  "system_version": "4.0.0",
+  "corpus_version": "synthetic-demo-v4",
+  "benchmark_version": "fdia-v4-200-v1",
+  "retrieval_configurations": {
+    "baseline": "BM25 lexical + deterministic extractive",
+    "nim": "BM25 lexical + NVIDIA NIM generation",
+    "semantic_baseline": "sentence-transformers + FAISS + deterministic extractive",
+    "semantic_nim": "sentence-transformers + FAISS + NVIDIA NIM generation"
+  },
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "top_k_default": 5,
+  "chunk_words": 120,
+  "chunk_overlap_words": 25,
+  "generation": "opt-in; exact quote and numeric-token gate; not semantic entailment",
+  "human_review_status": "benchmark adjudication pending; no independent human sign-off is claimed",
+  "data_status": "synthetic demo reports only; not empirical financial-report performance"
+}
